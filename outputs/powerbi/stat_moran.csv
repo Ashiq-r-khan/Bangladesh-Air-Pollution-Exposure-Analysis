@@ -1,0 +1,17 @@
+"test","variable","weights","I","expected","z","p","p_perm"
+"Global Moran's I","pm25_recent","knn6",0.924257,-0.00197628,38.8289,0,0.001
+"Global Moran's I","pm25_recent","queen",0.946438,-0.00197628,33.8419,2.3863e-251,0.001
+"Global Moran's I","sen","knn6",0.889351,-0.00197628,37.3621,8.05953999999999e-306,0.001
+"Global Moran's I","sen","queen",0.90637,-0.00197628,32.4092,1.01749e-230,0.001
+"Moran's I of ML residuals","Residuals pm25_change random Linear regression","queen",0.695239,-0.00197628,24.8915,4.59754e-137,0.001
+"Moran's I of ML residuals","Residuals pm25_change random Random forest","queen",0.381585,-0.00197628,13.7061,4.66895e-43,0.001
+"Moran's I of ML residuals","Residuals pm25_change random XGBoost","queen",0.304382,-0.00197628,10.9466,3.45031e-28,0.001
+"Moran's I of ML residuals","Residuals pm25_change spatial Linear regression","queen",0.774223,-0.00197628,27.6937,4.16331e-169,0.001
+"Moran's I of ML residuals","Residuals pm25_change spatial Random forest","queen",0.753274,-0.00197628,26.9729,1.53789e-160,0.001
+"Moran's I of ML residuals","Residuals pm25_change spatial XGBoost","queen",0.750581,-0.00197628,26.8744,2.1894e-159,0.001
+"Moran's I of ML residuals","Residuals pm25_recent random Linear regression","queen",0.802106,-0.00197628,28.676,3.80195e-181,0.001
+"Moran's I of ML residuals","Residuals pm25_recent random Random forest","queen",0.375823,-0.00197628,13.4946,8.41332e-42,0.001
+"Moran's I of ML residuals","Residuals pm25_recent random XGBoost","queen",0.211956,-0.00197628,7.6496,1.00801e-14,0.001
+"Moran's I of ML residuals","Residuals pm25_recent spatial Linear regression","queen",0.900533,-0.00197628,32.1907,1.19213e-227,0.001
+"Moran's I of ML residuals","Residuals pm25_recent spatial XGBoost","queen",0.822828,-0.00197628,29.4667,3.8516e-191,0.001
+"Moran's I of ML residuals","Residuals pm25_recent spatial Random forest","queen",0.811478,-0.00197628,29.0423,9.62073e-186,0.001

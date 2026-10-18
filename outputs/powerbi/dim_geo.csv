@@ -1,0 +1,581 @@
+"pcode","level","level_sort","name","label","name_sort","district_pcode","division_pcode","area_km2","division","district","people","lon","lat","density_per_km2"
+"BD","national",1,"Bangladesh","Bangladesh",1,,,145962,,,168343283,,,1153.34
+"BD10","division",2,"Barishal","Barishal",2,,"BD10",12693,"Barishal",,9294982,,,732.265
+"BD20","division",2,"Chattogram","Chattogram",3,,"BD20",32833,"Chattogram",,33824832,,,1030.21
+"BD30","division",2,"Dhaka","Dhaka",4,,"BD30",20427,"Dhaka",,45086571,,,2207.26
+"BD40","division",2,"Khulna","Khulna",5,,"BD40",22585,"Khulna",,17758239,,,786.294
+"BD45","division",2,"Mymensingh","Mymensingh",6,,"BD45",10513,"Mymensingh",,12521376,,,1191.06
+"BD50","division",2,"Rajshahi","Rajshahi",7,,"BD50",18255,"Rajshahi",,20719019,,,1134.95
+"BD55","division",2,"Rangpur","Rangpur",8,,"BD55",16283,"Rangpur",,17918648,,,1100.47
+"BD60","division",2,"Sylhet","Sylhet",9,,"BD60",12373,"Sylhet",,11219615,,,906.759
+"BD1004","district",3,"Barguna","Barguna",10,"BD1004","BD10",1535,"Barishal","Barguna",1042829,,,679.385
+"BD1006","district",3,"Barishal","Barishal",11,"BD1006","BD10",2553,"Barishal","Barishal",2647561,,,1036.87
+"BD1009","district",3,"Bhola","Bhola",12,"BD1009","BD10",3472,"Barishal","Bhola",1962645,,,565.333
+"BD1042","district",3,"Jhalokati","Jhalokati",13,"BD1042","BD10",736,"Barishal","Jhalokati",662987,,,901.159
+"BD1078","district",3,"Patuakhali","Patuakhali",14,"BD1078","BD10",3125,"Barishal","Patuakhali",1769192,,,566.135
+"BD1079","district",3,"Pirojpur","Pirojpur",15,"BD1079","BD10",1273,"Barishal","Pirojpur",1209767,,,950.558
+"BD2003","district",3,"Bandarban","Bandarban",16,"BD2003","BD20",4591,"Chattogram","Bandarban",545768,,,118.877
+"BD2012","district",3,"Brahmanbaria","Brahmanbaria",17,"BD2012","BD20",1928,"Chattogram","Brahmanbaria",3352555,,,1738.63
+"BD2013","district",3,"Chandpur","Chandpur",18,"BD2013","BD20",1720,"Chattogram","Chandpur",2650457,,,1541.12
+"BD2015","district",3,"Chattogram","Chattogram",19,"BD2015","BD20",4879,"Chattogram","Chattogram",9349577,,,1916.2
+"BD2022","district",3,"Cox's Bazar","Cox's Bazar",20,"BD2022","BD20",2327,"Chattogram","Cox's Bazar",2795224,,,1201.37
+"BD2019","district",3,"Cumilla","Cumilla",21,"BD2019","BD20",3097,"Chattogram","Cumilla",6330661,,,2043.9
+"BD2030","district",3,"Feni","Feni",22,"BD2030","BD20",929,"Chattogram","Feni",1691591,,,1819.94
+"BD2046","district",3,"Khagrachhari","Khagrachhari",23,"BD2046","BD20",2978,"Chattogram","Khagrachhari",761719,,,255.799
+"BD2051","district",3,"Lakshmipur","Lakshmipur",24,"BD2051","BD20",1503,"Chattogram","Lakshmipur",1972107,,,1312.02
+"BD2075","district",3,"Noakhali","Noakhali",25,"BD2075","BD20",3237,"Chattogram","Noakhali",3694929,,,1141.47
+"BD2084","district",3,"Rangamati","Rangamati",26,"BD2084","BD20",5643,"Chattogram","Rangamati",680245,,,120.54
+"BD3026","district",3,"Dhaka","Dhaka",27,"BD3026","BD30",1470,"Dhaka","Dhaka",14900170,,,10137.6
+"BD3029","district",3,"Faridpur","Faridpur",28,"BD3029","BD30",2038,"Dhaka","Faridpur",2205401,,,1082.33
+"BD3033","district",3,"Gazipur","Gazipur",29,"BD3033","BD30",1815,"Dhaka","Gazipur",5435319,,,2995.04
+"BD3035","district",3,"Gopalganj","Gopalganj",30,"BD3035","BD30",1486,"Dhaka","Gopalganj",1312473,,,883.277
+"BD3048","district",3,"Kishoreganj","Kishoreganj",31,"BD3048","BD30",2563,"Dhaka","Kishoreganj",3320411,,,1295.49
+"BD3054","district",3,"Madaripur","Madaripur",32,"BD3054","BD30",1154,"Dhaka","Madaripur",1346556,,,1167.01
+"BD3056","district",3,"Manikganj","Manikganj",33,"BD3056","BD30",1393,"Dhaka","Manikganj",1569754,,,1126.5
+"BD3059","district",3,"Munshiganj","Munshiganj",34,"BD3059","BD30",934,"Dhaka","Munshiganj",1709343,,,1831.01
+"BD3067","district",3,"Narayanganj","Narayanganj",35,"BD3067","BD30",706,"Dhaka","Narayanganj",3966947,,,5616.03
+"BD3068","district",3,"Narsingdi","Narsingdi",36,"BD3068","BD30",1163,"Dhaka","Narsingdi",2682120,,,2305.69
+"BD3082","district",3,"Rajbari","Rajbari",37,"BD3082","BD30",1130,"Dhaka","Rajbari",1220465,,,1080.39
+"BD3086","district",3,"Shariatpur","Shariatpur",38,"BD3086","BD30",1203,"Dhaka","Shariatpur",1273327,,,1058.86
+"BD3093","district",3,"Tangail","Tangail",39,"BD3093","BD30",3373,"Dhaka","Tangail",4144284,,,1228.79
+"BD4001","district",3,"Bagerhat","Bagerhat",40,"BD4001","BD40",4072,"Khulna","Bagerhat",1650378,,,405.252
+"BD4018","district",3,"Chuadanga","Chuadanga",41,"BD4018","BD40",1166,"Khulna","Chuadanga",1267135,,,1086.56
+"BD4041","district",3,"Jashore","Jashore",42,"BD4041","BD40",2576,"Khulna","Jashore",3167036,,,1229.24
+"BD4044","district",3,"Jhenaidah","Jhenaidah",43,"BD4044","BD40",1966,"Khulna","Jhenaidah",2036669,,,1036.21
+"BD4047","district",3,"Khulna","Khulna",44,"BD4047","BD40",4457,"Khulna","Khulna",2679723,,,601.203
+"BD4050","district",3,"Kushtia","Kushtia",45,"BD4050","BD40",1639,"Khulna","Kushtia",2203540,,,1344.23
+"BD4055","district",3,"Magura","Magura",46,"BD4055","BD40",1042,"Khulna","Magura",1026524,,,984.826
+"BD4057","district",3,"Meherpur","Meherpur",47,"BD4057","BD40",718,"Khulna","Meherpur",695720,,,968.514
+"BD4065","district",3,"Narail","Narail",48,"BD4065","BD40",984,"Khulna","Narail",829030,,,842.561
+"BD4087","district",3,"Satkhira","Satkhira",49,"BD4087","BD40",3963,"Khulna","Satkhira",2202483,,,555.762
+"BD4539","district",3,"Jamalpur","Jamalpur",50,"BD4539","BD45",2052,"Mymensingh","Jamalpur",2550433,,,1242.98
+"BD4561","district",3,"Mymensingh","Mymensingh",51,"BD4561","BD45",4333,"Mymensingh","Mymensingh",6073228,,,1401.69
+"BD4572","district",3,"Netrakona","Netrakona",52,"BD4572","BD45",2800,"Mymensingh","Netrakona",2363177,,,843.955
+"BD4589","district",3,"Sherpur","Sherpur",53,"BD4589","BD45",1328,"Mymensingh","Sherpur",1534539,,,1155.53
+"BD5010","district",3,"Bogura","Bogura",54,"BD5010","BD50",2930,"Rajshahi","Bogura",3836380,,,1309.29
+"BD5070","district",3,"Chapainababganj","Chapainababganj",55,"BD5070","BD50",1689,"Rajshahi","Chapainababganj",1847564,,,1093.64
+"BD5038","district",3,"Joypurhat","Joypurhat",56,"BD5038","BD50",966,"Rajshahi","Joypurhat",984079,,,1018.86
+"BD5064","district",3,"Naogaon","Naogaon",57,"BD5064","BD50",3439,"Rajshahi","Naogaon",2835839,,,824.659
+"BD5069","district",3,"Natore","Natore",58,"BD5069","BD50",1905,"Rajshahi","Natore",1891415,,,992.878
+"BD5076","district",3,"Pabna","Pabna",59,"BD5076","BD50",2392,"Rajshahi","Pabna",2912603,,,1217.73
+"BD5081","district",3,"Rajshahi","Rajshahi",60,"BD5081","BD50",2423,"Rajshahi","Rajshahi",2993434,,,1235.62
+"BD5088","district",3,"Sirajganj","Sirajganj",61,"BD5088","BD50",2512,"Rajshahi","Sirajganj",3417705,,,1360.62
+"BD5527","district",3,"Dinajpur","Dinajpur",62,"BD5527","BD55",3460,"Rangpur","Dinajpur",3376700,,,975.892
+"BD5532","district",3,"Gaibandha","Gaibandha",63,"BD5532","BD55",2150,"Rangpur","Gaibandha",2591356,,,1205
+"BD5549","district",3,"Kurigram","Kurigram",64,"BD5549","BD55",2268,"Rangpur","Kurigram",2379048,,,1049.15
+"BD5552","district",3,"Lalmonirhat","Lalmonirhat",65,"BD5552","BD55",1236,"Rangpur","Lalmonirhat",1464054,,,1184.78
+"BD5573","district",3,"Nilphamari","Nilphamari",66,"BD5573","BD55",1596,"Rangpur","Nilphamari",2081097,,,1303.72
+"BD5577","district",3,"Panchagarh","Panchagarh",67,"BD5577","BD55",1404,"Rangpur","Panchagarh",1207197,,,859.929
+"BD5585","district",3,"Rangpur","Rangpur",68,"BD5585","BD55",2363,"Rangpur","Rangpur",3263362,,,1380.96
+"BD5594","district",3,"Thakurgaon","Thakurgaon",69,"BD5594","BD55",1806,"Rangpur","Thakurgaon",1555833,,,861.659
+"BD6036","district",3,"Habiganj","Habiganj",70,"BD6036","BD60",2611,"Sylhet","Habiganj",2406211,,,921.674
+"BD6058","district",3,"Moulvibazar","Moulvibazar",71,"BD6058","BD60",2674,"Sylhet","Moulvibazar",2195654,,,821.263
+"BD6090","district",3,"Sunamganj","Sunamganj",72,"BD6090","BD60",3667,"Sylhet","Sunamganj",2662549,,,726.112
+"BD6091","district",3,"Sylhet","Sylhet",73,"BD6091","BD60",3422,"Sylhet","Sylhet",3955201,,,1155.73
+"BD10040009","upazila",4,"Amtali","Amtali",74,"BD1004","BD10",310,"Barishal","Barguna",223190,90.2768,22.14,720.183
+"BD10040019","upazila",4,"Bamna","Bamna",75,"BD1004","BD10",100,"Barishal","Barguna",83105,90.0552,22.2688,834.195
+"BD10040028","upazila",4,"Barguna Sadar","Barguna Sadar",76,"BD1004","BD10",377,"Barishal","Barguna",296240,90.0855,22.1078,786.204
+"BD10040047","upazila",4,"Betagi","Betagi",77,"BD1004","BD10",169,"Barishal","Barguna",112946,90.1378,22.3467,669.879
+"BD10040085","upazila",4,"Patharghata","Patharghata",78,"BD1004","BD10",299,"Barishal","Barguna",191629,89.9591,22.0935,640.753
+"BD10040090","upazila",4,"Taltali","Taltali",79,"BD1004","BD10",281,"Barishal","Barguna",135719,90.1057,21.9726,483.058
+"BD10060002","upazila",4,"Agailjhara","Agailjhara",80,"BD1006","BD10",158,"Barishal","Barishal",177682,90.1323,22.9744,1122.83
+"BD10060003","upazila",4,"Babuganj","Babuganj",81,"BD1006","BD10",161,"Barishal","Barishal",214293,90.3086,22.8333,1327.17
+"BD10060007","upazila",4,"Bakerganj","Bakerganj",82,"BD1006","BD10",404,"Barishal","Barishal",421930,90.4261,22.5641,1044.33
+"BD10060010","upazila",4,"Banaripara","Banaripara",83,"BD1006","BD10",134,"Barishal","Barishal",127329,90.1389,22.807,949.638
+"BD10065000","upazila",4,"Barishal City Corporation","Barishal City Corporation",84,"BD1006","BD10",58,"Barishal","Barishal",404449,90.349,22.6999,6913.74
+"BD10060051","upazila",4,"Barishal Sadar (Kotwali)","Barishal Sadar (Kotwali)",85,"BD1006","BD10",243,"Barishal","Barishal",242971,90.4298,22.7161,1000.48
+"BD10060032","upazila",4,"Gaurnadi","Gaurnadi",86,"BD1006","BD10",148,"Barishal","Barishal",268764,90.2118,22.9792,1817.2
+"BD10060036","upazila",4,"Hijla","Hijla",87,"BD1006","BD10",363,"Barishal","Barishal",124951,90.5546,22.9755,343.896
+"BD10060062","upazila",4,"Mehendiganj","Mehendiganj",88,"BD1006","BD10",407,"Barishal","Barishal",205270,90.5197,22.78,504.782
+"BD10060069","upazila",4,"Muladi","Muladi",89,"BD1006","BD10",230,"Barishal","Barishal",188743,90.3847,22.9275,821.362
+"BD10060094","upazila",4,"Ujirpur","Ujirpur",90,"BD1006","BD10",247,"Barishal","Barishal",271178,90.2199,22.8442,1099.82
+"BD10090018","upazila",4,"Bhola Sadar","Bhola Sadar",91,"BD1009","BD10",436,"Barishal","Bhola",402388,90.6276,22.7042,923.897
+"BD10090021","upazila",4,"Borhanuddin","Borhanuddin",92,"BD1009","BD10",287,"Barishal","Bhola",270042,90.7316,22.479,941.568
+"BD10090025","upazila",4,"Charfasson","Charfasson",93,"BD1009","BD10",1222,"Barishal","Bhola",566751,90.7184,22.0511,463.904
+"BD10090029","upazila",4,"Daulatkhan","Daulatkhan",94,"BD1009","BD10",307,"Barishal","Bhola",152514,90.7416,22.6709,497.51
+"BD10090054","upazila",4,"Lalmohan","Lalmohan",95,"BD1009","BD10",382,"Barishal","Bhola",312767,90.7819,22.3047,818.944
+"BD10090065","upazila",4,"Monpura","Monpura",96,"BD1009","BD10",513,"Barishal","Bhola",130110,90.9554,22.2279,253.51
+"BD10090091","upazila",4,"Tazumuddin","Tazumuddin",97,"BD1009","BD10",326,"Barishal","Bhola",128072,90.8832,22.4414,392.95
+"BD10420040","upazila",4,"Jhalokathi Sadar","Jhalokathi Sadar",98,"BD1042","BD10",204,"Barishal","Jhalokati",185181,90.2047,22.6819,907.84
+"BD10420043","upazila",4,"Kanthalia","Kanthalia",99,"BD1042","BD10",159,"Barishal","Jhalokati",127189,90.0961,22.4229,801.88
+"BD10420073","upazila",4,"Nalchhity","Nalchhity",100,"BD1042","BD10",209,"Barishal","Jhalokati",222645,90.271,22.5914,1062.91
+"BD10420084","upazila",4,"Rajapur","Rajapur",101,"BD1042","BD10",164,"Barishal","Jhalokati",127972,90.1289,22.5524,782.01
+"BD10780038","upazila",4,"Bauphal","Bauphal",102,"BD1078","BD10",488,"Barishal","Patuakhali",283828,90.5516,22.4496,582.015
+"BD10780052","upazila",4,"Dashmina","Dashmina",103,"BD1078","BD10",301,"Barishal","Patuakhali",134934,90.5469,22.2416,447.718
+"BD10780055","upazila",4,"Dumki","Dumki",104,"BD1078","BD10",94,"Barishal","Patuakhali",77109,90.3742,22.4434,816.838
+"BD10780057","upazila",4,"Galachipa","Galachipa",105,"BD1078","BD10",528,"Barishal","Patuakhali",313277,90.4162,22.1632,593.264
+"BD10780066","upazila",4,"Kalapara","Kalapara",106,"BD1078","BD10",491,"Barishal","Patuakhali",318268,90.2224,21.9518,648.648
+"BD10780076","upazila",4,"Mirzaganj","Mirzaganj",107,"BD1078","BD10",176,"Barishal","Patuakhali",137356,90.2206,22.3478,778.465
+"BD10780095","upazila",4,"Patuakhali Sadar","Patuakhali Sadar",108,"BD1078","BD10",366,"Barishal","Patuakhali",383090,90.3356,22.3284,1046.64
+"BD10780097","upazila",4,"Rangabali","Rangabali",109,"BD1078","BD10",680,"Barishal","Patuakhali",121330,90.4631,21.9462,178.321
+"BD10790014","upazila",4,"Bhandaria","Bhandaria",110,"BD1079","BD10",166,"Barishal","Pirojpur",174420,90.0177,22.4569,1051.96
+"BD10790090","upazila",4,"Indurkani","Indurkani",111,"BD1079","BD10",100,"Barishal","Pirojpur",60799,89.9616,22.4617,604.968
+"BD10790047","upazila",4,"Kawkhali","Kawkhali (Pirojpur)",112,"BD1079","BD10",81,"Barishal","Pirojpur",65356,90.0831,22.5935,811.222
+"BD10790058","upazila",4,"Mathbaria","Mathbaria",113,"BD1079","BD10",352,"Barishal","Pirojpur",409825,89.9409,22.2804,1165.31
+"BD10790076","upazila",4,"Nazirpur","Nazirpur",114,"BD1079","BD10",228,"Barishal","Pirojpur",153122,89.9747,22.7687,671.81
+"BD10790087","upazila",4,"Nesarabad (Swarupkathi)","Nesarabad (Swarupkathi)",115,"BD1079","BD10",183,"Barishal","Pirojpur",182250,90.1027,22.7308,998.259
+"BD10790080","upazila",4,"Pirojpur Sadar","Pirojpur Sadar",116,"BD1079","BD10",164,"Barishal","Pirojpur",163994,89.9989,22.5956,1002.15
+"BD20030004","upazila",4,"Alikadam","Alikadam",117,"BD2003","BD20",785,"Chattogram","Bandarban",68273,92.4086,21.5918,86.9697
+"BD20030014","upazila",4,"Bandarban Sadar","Bandarban Sadar",118,"BD2003","BD20",523,"Chattogram","Bandarban",118910,92.203,22.1463,227.149
+"BD20030051","upazila",4,"Lama","Lama",119,"BD2003","BD20",704,"Chattogram","Bandarban",166498,92.2695,21.8009,236.63
+"BD20030073","upazila",4,"Naikkhongchhari","Naikkhongchhari",120,"BD2003","BD20",517,"Chattogram","Bandarban",103170,92.1744,21.4129,199.421
+"BD20030089","upazila",4,"Rowangchhari","Rowangchhari",121,"BD2003","BD20",441,"Chattogram","Bandarban",33119,92.3504,22.1736,75.1495
+"BD20030091","upazila",4,"Ruma","Ruma",122,"BD2003","BD20",634,"Chattogram","Bandarban",26290,92.4373,22.0241,41.439
+"BD20030095","upazila",4,"Thanchi","Thanchi",123,"BD2003","BD20",986,"Chattogram","Bandarban",29507,92.5492,21.5887,29.9149
+"BD20120002","upazila",4,"Akhaura","Akhaura",124,"BD2012","BD20",92,"Chattogram","Brahmanbaria",211343,91.2057,23.8492,2291.82
+"BD20120033","upazila",4,"Ashuganj","Ashuganj",125,"BD2012","BD20",78,"Chattogram","Brahmanbaria",204909,91.0191,24.019,2641.69
+"BD20120004","upazila",4,"Banchharampur","Banchharampur",126,"BD2012","BD20",206,"Chattogram","Brahmanbaria",371710,90.8124,23.7752,1803.89
+"BD20120007","upazila",4,"Bijoynagar","Bijoynagar",127,"BD2012","BD20",225,"Chattogram","Brahmanbaria",342281,91.2155,23.9922,1517.99
+"BD20120013","upazila",4,"Brahmanbaria Sadar","Brahmanbaria Sadar",128,"BD2012","BD20",217,"Chattogram","Brahmanbaria",589614,91.1164,23.9503,2722.71
+"BD20120063","upazila",4,"Kasba","Kasba",129,"BD2012","BD20",209,"Chattogram","Brahmanbaria",466830,91.1431,23.7557,2228.54
+"BD20120085","upazila",4,"Nabinagar","Nabinagar",130,"BD2012","BD20",361,"Chattogram","Brahmanbaria",633940,90.9972,23.8669,1754.14
+"BD20120090","upazila",4,"Nasirnagar","Nasirnagar",131,"BD2012","BD20",316,"Chattogram","Brahmanbaria",269951,91.1974,24.1714,854.647
+"BD20120094","upazila",4,"Sarail","Sarail",132,"BD2012","BD20",224,"Chattogram","Brahmanbaria",261977,91.1088,24.0918,1171.38
+"BD20130022","upazila",4,"Chandpur Sadar","Chandpur Sadar",133,"BD2013","BD20",320,"Chattogram","Chandpur",397660,90.6927,23.2335,1244.33
+"BD20130045","upazila",4,"Faridganj","Faridganj",134,"BD2013","BD20",235,"Chattogram","Chandpur",361956,90.7635,23.1372,1537.59
+"BD20130047","upazila",4,"Haimchar","Haimchar",135,"BD2013","BD20",168,"Chattogram","Chandpur",76850,90.6253,23.0639,458.066
+"BD20130049","upazila",4,"Hajiganj","Hajiganj",136,"BD2013","BD20",191,"Chattogram","Chandpur",356409,90.8321,23.2436,1861.28
+"BD20130058","upazila",4,"Kachua","Kachua (Chandpur)",137,"BD2013","BD20",238,"Chattogram","Chandpur",486365,90.8692,23.3575,2045.24
+"BD20130076","upazila",4,"Matlab Dakkhin","Matlab Dakkhin",138,"BD2013","BD20",130,"Chattogram","Chandpur",254308,90.7696,23.3525,1952.88
+"BD20130079","upazila",4,"Matlab Uttar","Matlab Uttar",139,"BD2013","BD20",283,"Chattogram","Chandpur",442967,90.6476,23.4088,1563.97
+"BD20130095","upazila",4,"Shahrasti","Shahrasti",140,"BD2013","BD20",154,"Chattogram","Chandpur",273942,90.9725,23.2083,1775.01
+"BD20150004","upazila",4,"Anwara","Anwara",141,"BD2015","BD20",161,"Chattogram","Chattogram",406253,91.8776,22.1846,2526.13
+"BD20150008","upazila",4,"Banshkhali","Banshkhali",142,"BD2015","BD20",363,"Chattogram","Chattogram",614343,91.9418,22.0176,1694.11
+"BD20150012","upazila",4,"Boalkhali","Boalkhali",143,"BD2015","BD20",139,"Chattogram","Chattogram",266732,91.9589,22.3793,1913.35
+"BD20150018","upazila",4,"Chandanaish","Chandanaish",144,"BD2015","BD20",200,"Chattogram","Chattogram",301038,92.0713,22.2213,1506.21
+"BD20151600","upazila",4,"Chattogram City Corporation","Chattogram City Corporation",145,"BD2015","BD20",199,"Chattogram","Chattogram",1413035,91.8099,22.3431,7117.05
+"BD20150033","upazila",4,"Fatikchhari","Fatikchhari",146,"BD2015","BD20",759,"Chattogram","Chattogram",970155,91.7067,22.773,1278.24
+"BD20150037","upazila",4,"Hathazari","Hathazari",147,"BD2015","BD20",228,"Chattogram","Chattogram",656407,91.8006,22.5194,2877.84
+"BD20150039","upazila",4,"Karnaphuli","Karnaphuli",148,"BD2015","BD20",51,"Chattogram","Chattogram",246291,91.837,22.285,4856.09
+"BD20150047","upazila",4,"Lohagara","Lohagara (Chattogram)",149,"BD2015","BD20",260,"Chattogram","Chattogram",523715,92.108,21.9911,2013.7
+"BD20150053","upazila",4,"Mirsarai","Mirsarai",150,"BD2015","BD20",508,"Chattogram","Chattogram",756697,91.5339,22.8133,1488.33
+"BD20150061","upazila",4,"Patiya","Patiya",151,"BD2015","BD20",254,"Chattogram","Chattogram",526818,91.9854,22.2894,2077.23
+"BD20150070","upazila",4,"Rangunia","Rangunia",152,"BD2015","BD20",354,"Chattogram","Chattogram",549260,92.0541,22.4644,1550.63
+"BD20150074","upazila",4,"Raozan","Raozan",153,"BD2015","BD20",244,"Chattogram","Chattogram",522902,91.9076,22.5364,2144.41
+"BD20150078","upazila",4,"Sandwip","Sandwip",154,"BD2015","BD20",391,"Chattogram","Chattogram",418629,91.4656,22.4996,1071.27
+"BD20150082","upazila",4,"Satkania","Satkania",155,"BD2015","BD20",276,"Chattogram","Chattogram",519438,92.0813,22.1094,1879.9
+"BD20150086","upazila",4,"Sitakunda","Sitakunda",156,"BD2015","BD20",493,"Chattogram","Chattogram",657865,91.6681,22.5309,1334.62
+"BD20220016","upazila",4,"Chakaria","Chakaria",157,"BD2022","BD20",493,"Chattogram","Cox's Bazar",541959,92.0461,21.7477,1098.7
+"BD20220024","upazila",4,"Coxs Bazar Sadar","Coxs Bazar Sadar",158,"BD2022","BD20",121,"Chattogram","Cox's Bazar",328570,92.0102,21.4697,2724.18
+"BD20220032","upazila",4,"Eidgaon","Eidgaon",159,"BD2022","BD20",86,"Chattogram","Cox's Bazar",123995,92.0451,21.5537,1434.63
+"BD20220045","upazila",4,"Kutubdia","Kutubdia",160,"BD2022","BD20",72,"Chattogram","Cox's Bazar",123496,91.8643,21.8225,1722.55
+"BD20220049","upazila",4,"Maheshkhali","Maheshkhali",161,"BD2022","BD20",400,"Chattogram","Cox's Bazar",231706,91.9236,21.6244,578.753
+"BD20220056","upazila",4,"Pekua","Pekua",162,"BD2022","BD20",144,"Chattogram","Cox's Bazar",238067,91.9539,21.8111,1658.74
+"BD20220066","upazila",4,"Ramu","Ramu",163,"BD2022","BD20",384,"Chattogram","Cox's Bazar",421633,92.1491,21.4466,1097.72
+"BD20220090","upazila",4,"Teknaf","Teknaf",164,"BD2022","BD20",368,"Chattogram","Cox's Bazar",302957,92.2426,20.938,823.36
+"BD20220094","upazila",4,"Ukhia","Ukhia",165,"BD2022","BD20",259,"Chattogram","Cox's Bazar",482841,92.1065,21.2164,1865.93
+"BD20190067","upazila",4,"Adarsha Sadar","Adarsha Sadar",166,"BD2019","BD20",112,"Chattogram","Cumilla",395510,91.1387,23.4681,3545.71
+"BD20190009","upazila",4,"Barura","Barura",167,"BD2019","BD20",247,"Chattogram","Cumilla",469744,91.0356,23.3431,1905.52
+"BD20190015","upazila",4,"Brahmanpara","Brahmanpara",168,"BD2019","BD20",128,"Chattogram","Cumilla",233076,91.1082,23.6477,1816.18
+"BD20190018","upazila",4,"Burichang","Burichang",169,"BD2019","BD20",168,"Chattogram","Cumilla",393218,91.1286,23.538,2343.32
+"BD20190027","upazila",4,"Chandina","Chandina",170,"BD2019","BD20",200,"Chattogram","Cumilla",437585,90.9449,23.4267,2187.71
+"BD20190031","upazila",4,"Chauddagram","Chauddagram",171,"BD2019","BD20",274,"Chattogram","Cumilla",650748,91.2896,23.2083,2375.48
+"BD20195000","upazila",4,"Cumilla City Corporation","Cumilla City Corporation",172,"BD2019","BD20",52,"Chattogram","Cumilla",249941,91.1888,23.4359,4778.18
+"BD20190036","upazila",4,"Daudkandi","Daudkandi",173,"BD2019","BD20",219,"Chattogram","Cumilla",415074,90.7828,23.5029,1895.53
+"BD20190040","upazila",4,"Debidwar","Debidwar",174,"BD2019","BD20",239,"Chattogram","Cumilla",512211,91.0072,23.5946,2140.76
+"BD20190054","upazila",4,"Homna","Homna",175,"BD2019","BD20",124,"Chattogram","Cumilla",215592,90.8339,23.6878,1736.61
+"BD20190072","upazila",4,"Laksam","Laksam",176,"BD2019","BD20",141,"Chattogram","Cumilla",263857,91.1029,23.2411,1876.61
+"BD20190073","upazila",4,"Lalmai","Lalmai",177,"BD2019","BD20",120,"Chattogram","Cumilla",257038,91.1524,23.2929,2140.87
+"BD20190074","upazila",4,"Manoharganj","Manoharganj",178,"BD2019","BD20",163,"Chattogram","Cumilla",175746,91.0655,23.1429,1075.91
+"BD20190075","upazila",4,"Meghna","Meghna",179,"BD2019","BD20",110,"Chattogram","Cumilla",135925,90.6936,23.6188,1235.55
+"BD20190081","upazila",4,"Muradnagar","Muradnagar",180,"BD2019","BD20",342,"Chattogram","Cumilla",674634,90.9285,23.6508,1974.25
+"BD20190087","upazila",4,"Nangalkot","Nangalkot",181,"BD2019","BD20",235,"Chattogram","Cumilla",389304,91.1908,23.1512,1654.85
+"BD20190033","upazila",4,"Sadar Dakkhin","Sadar Dakkhin",182,"BD2019","BD20",113,"Chattogram","Cumilla",253962,91.168,23.3974,2254.03
+"BD20190094","upazila",4,"Titas","Titas",183,"BD2019","BD20",111,"Chattogram","Cumilla",207495,90.7892,23.5919,1872.36
+"BD20300014","upazila",4,"Chhagalnaiya","Chhagalnaiya",184,"BD2030","BD20",135,"Chattogram","Feni",243343,91.5188,23.0069,1801.54
+"BD20300025","upazila",4,"Daganbhuiyan","Daganbhuiyan",185,"BD2030","BD20",141,"Chattogram","Feni",296028,91.3121,22.973,2098.34
+"BD20300029","upazila",4,"Feni Sadar","Feni Sadar",186,"BD2030","BD20",214,"Chattogram","Feni",555169,91.4342,22.9887,2591.14
+"BD20300041","upazila",4,"Fulgazi","Fulgazi",187,"BD2030","BD20",103,"Chattogram","Feni",146139,91.4579,23.1127,1418.96
+"BD20300051","upazila",4,"Parashuram","Parashuram",188,"BD2030","BD20",102,"Chattogram","Feni",126888,91.4351,23.2086,1250.03
+"BD20300094","upazila",4,"Sonagazi","Sonagazi",189,"BD2030","BD20",235,"Chattogram","Feni",324024,91.4014,22.849,1381.34
+"BD20460043","upazila",4,"Dighinala","Dighinala",190,"BD2046","BD20",882,"Chattogram","Khagrachhari",125752,92.0393,23.415,142.594
+"BD20460047","upazila",4,"Guimara","Guimara",191,"BD2046","BD20",225,"Chattogram","Khagrachhari",47997,91.9311,22.9526,213.462
+"BD20460049","upazila",4,"Khagrachhari Sadar","Khagrachhari Sadar",192,"BD2046","BD20",271,"Chattogram","Khagrachhari",108182,92.0016,23.1608,398.728
+"BD20460061","upazila",4,"Lakkhichhari","Lakkhichhari",193,"BD2046","BD20",211,"Chattogram","Khagrachhari",27164,91.9188,22.7864,128.869
+"BD20460065","upazila",4,"Mahalchhari","Mahalchhari",194,"BD2046","BD20",234,"Chattogram","Khagrachhari",71213,92.0643,22.9681,304.182
+"BD20460067","upazila",4,"Manikchhari","Manikchhari",195,"BD2046","BD20",182,"Chattogram","Khagrachhari",96209,91.8239,22.8455,529.44
+"BD20460070","upazila",4,"Matiranga","Matiranga",196,"BD2046","BD20",491,"Chattogram","Khagrachhari",149898,91.8571,23.1909,305.271
+"BD20460077","upazila",4,"Panchhari","Panchhari",197,"BD2046","BD20",333,"Chattogram","Khagrachhari",85674,91.9203,23.3474,256.972
+"BD20460080","upazila",4,"Ramgarh","Ramgarh",198,"BD2046","BD20",149,"Chattogram","Khagrachhari",49630,91.7922,22.9564,333.773
+"BD20510033","upazila",4,"Kamalnagar","Kamalnagar",199,"BD2051","BD20",237,"Chattogram","Lakshmipur",198707,90.8676,22.7604,837.751
+"BD20510043","upazila",4,"Lakshmipur Sadar","Lakshmipur Sadar",200,"BD2051","BD20",553,"Chattogram","Lakshmipur",865111,90.8441,22.9186,1564.34
+"BD20510058","upazila",4,"Raipur","Raipur",201,"BD2051","BD20",184,"Chattogram","Lakshmipur",300052,90.7248,22.9937,1634.09
+"BD20510065","upazila",4,"Ramganj","Ramganj",202,"BD2051","BD20",169,"Chattogram","Lakshmipur",434500,90.8618,23.09,2564.63
+"BD20510073","upazila",4,"Ramgati","Ramgati",203,"BD2051","BD20",360,"Chattogram","Lakshmipur",173737,90.9175,22.6145,482.795
+"BD20750007","upazila",4,"Begumganj","Begumganj",204,"BD2075","BD20",237,"Chattogram","Noakhali",438481,91.1026,22.9325,1848.19
+"BD20750010","upazila",4,"Chatkhil","Chatkhil",205,"BD2075","BD20",138,"Chattogram","Noakhali",270933,90.9549,23.0523,1968.59
+"BD20750021","upazila",4,"Companiganj","Companiganj (Noakhali)",206,"BD2075","BD20",409,"Chattogram","Noakhali",506651,91.3165,22.7755,1238.38
+"BD20750036","upazila",4,"Hatiya","Hatiya",207,"BD2075","BD20",1066,"Chattogram","Noakhali",469805,91.1038,22.333,440.78
+"BD20750047","upazila",4,"Kabirhat","Kabirhat",208,"BD2075","BD20",137,"Chattogram","Noakhali",219677,91.1917,22.8099,1607.89
+"BD20750087","upazila",4,"Noakhali Sadar","Noakhali Sadar",209,"BD2075","BD20",349,"Chattogram","Noakhali",560279,91.0173,22.8048,1605.4
+"BD20750080","upazila",4,"Senbag","Senbag",210,"BD2075","BD20",166,"Chattogram","Noakhali",378511,91.2247,22.9789,2282.85
+"BD20750083","upazila",4,"Sonaimuri","Sonaimuri",211,"BD2075","BD20",169,"Chattogram","Noakhali",321214,91.0631,23.0367,1903.08
+"BD20750085","upazila",4,"Subarnachar","Subarnachar",212,"BD2075","BD20",567,"Chattogram","Noakhali",529377,91.1438,22.6173,933.748
+"BD20840007","upazila",4,"Baghaichhari","Baghaichhari",213,"BD2084","BD20",1491,"Chattogram","Rangamati",115552,92.2289,23.3721,77.507
+"BD20840021","upazila",4,"Barkal","Barkal",214,"BD2084","BD20",666,"Chattogram","Rangamati",67891,92.3787,22.8799,101.971
+"BD20840029","upazila",4,"Belaichhari","Belaichhari",215,"BD2084","BD20",751,"Chattogram","Rangamati",26795,92.5422,22.1971,35.694
+"BD20840047","upazila",4,"Jurachhari","Jurachhari",216,"BD2084","BD20",645,"Chattogram","Rangamati",32439,92.4514,22.5503,50.3157
+"BD20840036","upazila",4,"Kaptai","Kaptai",217,"BD2084","BD20",253,"Chattogram","Rangamati",45801,92.2229,22.474,181.332
+"BD20840025","upazila",4,"Kawkhali","Kawkhali (Rangamati)",218,"BD2084","BD20",238,"Chattogram","Rangamati",60338,91.9783,22.608,253.612
+"BD20840058","upazila",4,"Langadu","Langadu",219,"BD2084","BD20",494,"Chattogram","Rangamati",131590,92.2302,22.9699,266.255
+"BD20840075","upazila",4,"Naniarchar","Naniarchar",220,"BD2084","BD20",337,"Chattogram","Rangamati",59907,92.0851,22.8421,178.011
+"BD20840078","upazila",4,"Rajasthali","Rajasthali",221,"BD2084","BD20",148,"Chattogram","Rangamati",36697,92.2821,22.3749,247.573
+"BD20840087","upazila",4,"Rangamati Sadar","Rangamati Sadar",222,"BD2084","BD20",622,"Chattogram","Rangamati",103237,92.1771,22.6668,166.032
+"BD30262500","upazila",4,"Dhaka North City Corporation","Dhaka North City Corporation",223,"BD3026","BD30",205,"Dhaka","Dhaka",3800208,90.4118,23.8201,18511
+"BD30262000","upazila",4,"Dhaka South City Corporation","Dhaka South City Corporation",224,"BD3026","BD30",99,"Dhaka","Dhaka",2310576,90.4298,23.7266,23354.1
+"BD30260014","upazila",4,"Dhamrai","Dhamrai",225,"BD3026","BD30",305,"Dhaka","Dhaka",1532863,90.1487,23.9375,5019.72
+"BD30260018","upazila",4,"Dohar","Dohar",226,"BD3026","BD30",143,"Dhaka","Dhaka",732870,90.109,23.5979,5132.94
+"BD30260038","upazila",4,"Keraniganj","Keraniganj",227,"BD3026","BD30",184,"Dhaka","Dhaka",1844912,90.3464,23.6955,10037
+"BD30260062","upazila",4,"Nawabganj","Nawabganj",228,"BD3026","BD30",248,"Dhaka","Dhaka",1027401,90.1622,23.6578,4140.73
+"BD30260072","upazila",4,"Savar","Savar",229,"BD3026","BD30",285,"Dhaka","Dhaka",3651341,90.2894,23.8868,12790.2
+"BD30290003","upazila",4,"Alfadanga","Alfadanga",230,"BD3029","BD30",130,"Dhaka","Faridpur",123425,89.6618,23.2976,948.44
+"BD30290010","upazila",4,"Bhanga","Bhanga",231,"BD3029","BD30",218,"Dhaka","Faridpur",261252,89.9928,23.3818,1196.04
+"BD30290018","upazila",4,"Boalmari","Boalmari",232,"BD3029","BD30",263,"Dhaka","Faridpur",263712,89.6781,23.3973,1003.49
+"BD30290021","upazila",4,"Char Bhadrasan","Char Bhadrasan",233,"BD3029","BD30",137,"Dhaka","Faridpur",96819,89.9782,23.5883,707.061
+"BD30290047","upazila",4,"Faridpur Sadar","Faridpur Sadar",234,"BD3029","BD30",394,"Dhaka","Faridpur",569290,89.828,23.5975,1443.4
+"BD30290056","upazila",4,"Madhukhali","Madhukhali",235,"BD3029","BD30",237,"Dhaka","Faridpur",211104,89.6293,23.5362,891.286
+"BD30290062","upazila",4,"Nagarkanda","Nagarkanda",236,"BD3029","BD30",194,"Dhaka","Faridpur",212908,89.8902,23.4328,1097.5
+"BD30290084","upazila",4,"Sadarpur","Sadarpur",237,"BD3029","BD30",274,"Dhaka","Faridpur",303592,90.0662,23.4732,1107.87
+"BD30290090","upazila",4,"Saltha","Saltha",238,"BD3029","BD30",190,"Dhaka","Faridpur",163299,89.8032,23.4082,859.179
+"BD30333300","upazila",4,"Gazipur City Corporation","Gazipur City Corporation",239,"BD3033","BD30",320,"Dhaka","Gazipur",1852857,90.3548,23.9894,5796.32
+"BD30330030","upazila",4,"Gazipur Sadar","Gazipur Sadar",240,"BD3033","BD30",138,"Dhaka","Gazipur",417423,90.4007,24.1198,3025.04
+"BD30330032","upazila",4,"Kaliakair","Kaliakair",241,"BD3033","BD30",311,"Dhaka","Gazipur",843313,90.2851,24.1263,2708.18
+"BD30330034","upazila",4,"Kaliganj","Kaliganj (Gazipur)",242,"BD3033","BD30",222,"Dhaka","Gazipur",487999,90.5655,23.9477,2199.53
+"BD30330036","upazila",4,"Kapasia","Kapasia",243,"BD3033","BD30",362,"Dhaka","Gazipur",648470,90.6148,24.1493,1792.2
+"BD30330086","upazila",4,"Sreepur","Sreepur (Gazipur)",244,"BD3033","BD30",462,"Dhaka","Gazipur",1185258,90.4894,24.1771,2565.3
+"BD30350032","upazila",4,"Gopalganj Sadar","Gopalganj Sadar",245,"BD3035","BD30",383,"Dhaka","Gopalganj",394657,89.8458,23.0604,1029.8
+"BD30350043","upazila",4,"Kashiani","Kashiani",246,"BD3035","BD30",292,"Dhaka","Gopalganj",274884,89.7696,23.197,942.906
+"BD30350051","upazila",4,"Kotalipara","Kotalipara",247,"BD3035","BD30",369,"Dhaka","Gopalganj",253469,90.0064,22.9982,687.359
+"BD30350058","upazila",4,"Muksudpur","Muksudpur",248,"BD3035","BD30",311,"Dhaka","Gopalganj",302412,89.9225,23.2658,972.419
+"BD30350091","upazila",4,"Tungipara","Tungipara",249,"BD3035","BD30",131,"Dhaka","Gopalganj",87052,89.8858,22.9242,662.499
+"BD30480002","upazila",4,"Austagram","Austagram",250,"BD3048","BD30",303,"Dhaka","Kishoreganj",102115,91.0996,24.3215,336.973
+"BD30480006","upazila",4,"Bajitpur","Bajitpur",251,"BD3048","BD30",189,"Dhaka","Kishoreganj",275867,90.9346,24.2259,1462.19
+"BD30480011","upazila",4,"Bhairab","Bhairab",252,"BD3048","BD30",119,"Dhaka","Kishoreganj",273622,90.987,24.1067,2301.22
+"BD30480027","upazila",4,"Hossainpur","Hossainpur",253,"BD3048","BD30",121,"Dhaka","Kishoreganj",289811,90.6513,24.4501,2399.45
+"BD30480033","upazila",4,"Itna","Itna",254,"BD3048","BD30",390,"Dhaka","Kishoreganj",108923,91.0999,24.5479,279.163
+"BD30480042","upazila",4,"Karimganj","Karimganj",255,"BD3048","BD30",200,"Dhaka","Kishoreganj",282202,90.9026,24.4538,1413.47
+"BD30480045","upazila",4,"Katiadi","Katiadi",256,"BD3048","BD30",216,"Dhaka","Kishoreganj",418893,90.8021,24.2772,1942.44
+"BD30480049","upazila",4,"Kishoreganj Sadar","Kishoreganj Sadar",257,"BD3048","BD30",177,"Dhaka","Kishoreganj",588617,90.7755,24.4383,3324.15
+"BD30480054","upazila",4,"Kuliarchar","Kuliarchar",258,"BD3048","BD30",105,"Dhaka","Kishoreganj",177711,90.8818,24.1566,1692.22
+"BD30480059","upazila",4,"Mithamain","Mithamain",259,"BD3048","BD30",222,"Dhaka","Kishoreganj",76226,91.0994,24.4273,343.566
+"BD30480076","upazila",4,"Nikli","Nikli",260,"BD3048","BD30",201,"Dhaka","Kishoreganj",114742,90.9535,24.3508,569.972
+"BD30480079","upazila",4,"Pakundia","Pakundia",261,"BD3048","BD30",176,"Dhaka","Kishoreganj",423877,90.7004,24.3157,2407.68
+"BD30480092","upazila",4,"Tarail","Tarail",262,"BD3048","BD30",145,"Dhaka","Kishoreganj",187804,90.8901,24.5517,1296.42
+"BD30540018","upazila",4,"Dasar","Dasar",263,"BD3054","BD30",79,"Dhaka","Madaripur",76046,90.1556,23.0855,965.854
+"BD30540040","upazila",4,"Kalkini","Kalkini",264,"BD3054","BD30",209,"Dhaka","Madaripur",228417,90.28,23.0669,1093.6
+"BD30540054","upazila",4,"Madaripur Sadar","Madaripur Sadar",265,"BD3054","BD30",263,"Dhaka","Madaripur",340552,90.1926,23.1956,1293.62
+"BD30540080","upazila",4,"Rajoir","Rajoir",266,"BD3054","BD30",237,"Dhaka","Madaripur",253699,90.062,23.2241,1072.11
+"BD30540087","upazila",4,"Shibchar","Shibchar",267,"BD3054","BD30",366,"Dhaka","Madaripur",447843,90.171,23.3752,1222.41
+"BD30560010","upazila",4,"Daulatpur","Daulatpur (Manikganj)",268,"BD3056","BD30",211,"Dhaka","Manikganj",138186,89.7765,23.9643,656.135
+"BD30560022","upazila",4,"Ghior","Ghior",269,"BD3056","BD30",146,"Dhaka","Manikganj",156352,89.9264,23.8637,1074.02
+"BD30560028","upazila",4,"Harirampur","Harirampur",270,"BD3056","BD30",263,"Dhaka","Manikganj",141416,89.941,23.714,536.736
+"BD30560046","upazila",4,"Manikganj Sadar","Manikganj Sadar",271,"BD3056","BD30",218,"Dhaka","Manikganj",381473,90.0167,23.8179,1751.8
+"BD30560070","upazila",4,"Saturia","Saturia",272,"BD3056","BD30",139,"Dhaka","Manikganj",193542,89.9957,23.961,1395.38
+"BD30560078","upazila",4,"Shibalay","Shibalay",273,"BD3056","BD30",199,"Dhaka","Manikganj",153838,89.8446,23.8252,773.408
+"BD30560082","upazila",4,"Singair","Singair",274,"BD3056","BD30",218,"Dhaka","Manikganj",404946,90.1481,23.7871,1853.75
+"BD30590024","upazila",4,"Gazaria","Gazaria",275,"BD3059","BD30",137,"Dhaka","Munshiganj",243910,90.6331,23.5548,1776.6
+"BD30590044","upazila",4,"Louhajang","Louhajang",276,"BD3059","BD30",140,"Dhaka","Munshiganj",184998,90.3178,23.4684,1322.87
+"BD30590056","upazila",4,"Munshiganj Sadar","Munshiganj Sadar",277,"BD3059","BD30",162,"Dhaka","Munshiganj",380482,90.5403,23.4808,2343.63
+"BD30590074","upazila",4,"Sirajdikhan","Sirajdikhan",278,"BD3059","BD30",179,"Dhaka","Munshiganj",367419,90.3935,23.5876,2048.55
+"BD30590084","upazila",4,"Sreenagar","Sreenagar",279,"BD3059","BD30",201,"Dhaka","Munshiganj",347021,90.2556,23.5548,1725.77
+"BD30590094","upazila",4,"Tongibari","Tongibari",280,"BD3059","BD30",114,"Dhaka","Munshiganj",185513,90.4471,23.4784,1632.61
+"BD30670002","upazila",4,"Araihazar","Araihazar",281,"BD3067","BD30",179,"Dhaka","Narayanganj",626495,90.6571,23.7702,3497.79
+"BD30670006","upazila",4,"Bandar","Bandar",282,"BD3067","BD30",45,"Dhaka","Narayanganj",355327,90.5463,23.6414,7924.97
+"BD30674400","upazila",4,"Narayanganj City Corporation","Narayanganj City Corporation",283,"BD3067","BD30",49,"Dhaka","Narayanganj",617366,90.5163,23.6412,12673.4
+"BD30670058","upazila",4,"Narayanganj Sadar","Narayanganj Sadar",284,"BD3067","BD30",69,"Dhaka","Narayanganj",615076,90.4639,23.6219,8960.59
+"BD30670068","upazila",4,"Rupganj","Rupganj",285,"BD3067","BD30",185,"Dhaka","Narayanganj",936034,90.5364,23.8036,5063.7
+"BD30670004","upazila",4,"Sonargaon","Sonargaon",286,"BD3067","BD30",180,"Dhaka","Narayanganj",816649,90.6023,23.6507,4531.76
+"BD30680007","upazila",4,"Belabo","Belabo",287,"BD3068","BD30",120,"Dhaka","Narsingdi",242129,90.8194,24.112,2013.68
+"BD30680052","upazila",4,"Manohardi","Manohardi",288,"BD3068","BD30",194,"Dhaka","Narsingdi",371732,90.7287,24.1584,1915.3
+"BD30680060","upazila",4,"Narsingdi Sadar","Narsingdi Sadar",289,"BD3068","BD30",223,"Dhaka","Narsingdi",781521,90.7101,23.8608,3510.32
+"BD30680063","upazila",4,"Palash","Palash",290,"BD3068","BD30",95,"Dhaka","Narsingdi",326383,90.6658,23.9692,3435.36
+"BD30680064","upazila",4,"Raipura","Raipura",291,"BD3068","BD30",322,"Dhaka","Narsingdi",531984,90.8646,23.9637,1651.93
+"BD30680076","upazila",4,"Shibpur","Shibpur",292,"BD3068","BD30",209,"Dhaka","Narsingdi",428370,90.7484,24.0236,2047.15
+"BD30820007","upazila",4,"Baliakandi","Baliakandi",293,"BD3082","BD30",232,"Dhaka","Rajbari",241481,89.5329,23.651,1041.39
+"BD30820029","upazila",4,"Goalanda","Goalanda",294,"BD3082","BD30",145,"Dhaka","Rajbari",129473,89.7714,23.7577,890.497
+"BD30820047","upazila",4,"Kalukhali","Kalukhali",295,"BD3082","BD30",170,"Dhaka","Rajbari",190593,89.5106,23.7426,1122.98
+"BD30820073","upazila",4,"Pangsha","Pangsha",296,"BD3082","BD30",257,"Dhaka","Rajbari",271367,89.3835,23.7881,1056.65
+"BD30820076","upazila",4,"Rajbari Sadar","Rajbari Sadar",297,"BD3082","BD30",326,"Dhaka","Rajbari",387551,89.6674,23.6993,1189.39
+"BD30860014","upazila",4,"Bhedarganj","Bhedarganj",298,"BD3086","BD30",278,"Dhaka","Shariatpur",289748,90.5278,23.2715,1040.82
+"BD30860025","upazila",4,"Damudya","Damudya",299,"BD3086","BD30",98,"Dhaka","Shariatpur",117657,90.4315,23.1436,1197.42
+"BD30860036","upazila",4,"Gosairhat","Gosairhat",300,"BD3086","BD30",181,"Dhaka","Shariatpur",149921,90.4407,23.0888,830.118
+"BD30860065","upazila",4,"Naria","Naria",301,"BD3086","BD30",231,"Dhaka","Shariatpur",222928,90.4415,23.3152,967.147
+"BD30860069","upazila",4,"Shariatpur Sadar","Shariatpur Sadar",302,"BD3086","BD30",174,"Dhaka","Shariatpur",244001,90.323,23.2192,1402.09
+"BD30860094","upazila",4,"Zajira","Zajira",303,"BD3086","BD30",241,"Dhaka","Shariatpur",249073,90.339,23.3551,1034.47
+"BD30930009","upazila",4,"Basail","Basail",304,"BD3093","BD30",157,"Dhaka","Tangail",185326,90.041,24.2372,1183.09
+"BD30930019","upazila",4,"Bhuanpur","Bhuanpur",305,"BD3093","BD30",229,"Dhaka","Tangail",156252,89.8168,24.4836,683.654
+"BD30930023","upazila",4,"Delduar","Delduar",306,"BD3093","BD30",172,"Dhaka","Tangail",224547,89.9295,24.1429,1307.19
+"BD30930025","upazila",4,"Dhanbari","Dhanbari",307,"BD3093","BD30",136,"Dhaka","Tangail",167070,89.951,24.691,1229.41
+"BD30930028","upazila",4,"Ghatail","Ghatail",308,"BD3093","BD30",453,"Dhaka","Tangail",548935,90.0522,24.4808,1211.51
+"BD30930038","upazila",4,"Gopalpur","Gopalpur",309,"BD3093","BD30",193,"Dhaka","Tangail",225368,89.9081,24.5683,1170.15
+"BD30930047","upazila",4,"Kalihati","Kalihati",310,"BD3093","BD30",300,"Dhaka","Tangail",432477,89.9455,24.3577,1443.15
+"BD30930057","upazila",4,"Madhupur","Madhupur",311,"BD3093","BD30",375,"Dhaka","Tangail",301503,90.064,24.6532,805.047
+"BD30930066","upazila",4,"Mirzapur","Mirzapur",312,"BD3093","BD30",370,"Dhaka","Tangail",579627,90.1023,24.1191,1565.63
+"BD30930076","upazila",4,"Nagarpur","Nagarpur",313,"BD3093","BD30",256,"Dhaka","Tangail",253075,89.8728,24.0708,986.873
+"BD30930085","upazila",4,"Sakhipur","Sakhipur",314,"BD3093","BD30",435,"Dhaka","Tangail",593587,90.1594,24.3058,1364.41
+"BD30930095","upazila",4,"Tangail Sadar","Tangail Sadar",315,"BD3093","BD30",298,"Dhaka","Tangail",476515,89.885,24.2607,1598.04
+"BD40010008","upazila",4,"Bagerhat Sadar","Bagerhat Sadar",316,"BD4001","BD40",315,"Khulna","Bagerhat",320582,89.7575,22.6742,1016.29
+"BD40010014","upazila",4,"Chitalmari","Chitalmari",317,"BD4001","BD40",194,"Khulna","Bagerhat",116245,89.8475,22.8048,598.165
+"BD40010034","upazila",4,"Fakirhat","Fakirhat",318,"BD4001","BD40",159,"Khulna","Bagerhat",125475,89.6664,22.7352,788.038
+"BD40010038","upazila",4,"Kachua","Kachua (Bagerhat)",319,"BD4001","BD40",125,"Khulna","Bagerhat",83458,89.8715,22.6554,667.469
+"BD40010056","upazila",4,"Mollahat","Mollahat",320,"BD4001","BD40",181,"Khulna","Bagerhat",133714,89.7779,22.8894,739.723
+"BD40010058","upazila",4,"Mongla","Mongla",321,"BD4001","BD40",1467,"Khulna","Bagerhat",200065,89.6594,22.1533,136.347
+"BD40010060","upazila",4,"Morelganj","Morelganj",322,"BD4001","BD40",443,"Khulna","Bagerhat",333920,89.8023,22.4744,754.201
+"BD40010073","upazila",4,"Rampal","Rampal",323,"BD4001","BD40",278,"Khulna","Bagerhat",213089,89.6302,22.5891,767.382
+"BD40010077","upazila",4,"Sharankhola","Sharankhola",324,"BD4001","BD40",910,"Khulna","Bagerhat",123830,89.8325,22.0864,136.089
+"BD40180007","upazila",4,"Alamdanga","Alamdanga",325,"BD4018","BD40",366,"Khulna","Chuadanga",394838,88.8943,23.7251,1078.71
+"BD40180023","upazila",4,"Chuadanga Sadar","Chuadanga Sadar",326,"BD4018","BD40",296,"Khulna","Chuadanga",369687,88.9079,23.5909,1247.31
+"BD40180031","upazila",4,"Damurhuda","Damurhuda",327,"BD4018","BD40",304,"Khulna","Chuadanga",292996,88.7329,23.5887,963.686
+"BD40180055","upazila",4,"Jibannagar","Jibannagar",328,"BD4018","BD40",200,"Khulna","Chuadanga",209614,88.8583,23.4437,1049.47
+"BD40410004","upazila",4,"Abhaynagar","Abhaynagar",329,"BD4041","BD40",246,"Khulna","Jashore",285372,89.4211,23.02,1161.25
+"BD40410009","upazila",4,"Bagharpara","Bagharpara",330,"BD4041","BD40",273,"Khulna","Jashore",274794,89.3427,23.2541,1007.11
+"BD40410011","upazila",4,"Chaugachha","Chaugachha",331,"BD4041","BD40",272,"Khulna","Jashore",311396,89.0238,23.2721,1145.8
+"BD40410047","upazila",4,"Jashore Sadar","Jashore Sadar",332,"BD4041","BD40",437,"Khulna","Jashore",764024,89.2024,23.1988,1749.72
+"BD40410023","upazila",4,"Jhikargachha","Jhikargachha",333,"BD4041","BD40",307,"Khulna","Jashore",391309,89.057,23.0709,1273.86
+"BD40410038","upazila",4,"Keshabpur","Keshabpur",334,"BD4041","BD40",257,"Khulna","Jashore",245182,89.2372,22.8718,954.785
+"BD40410061","upazila",4,"Manirampur","Manirampur",335,"BD4041","BD40",445,"Khulna","Jashore",414075,89.2052,23.0096,930.837
+"BD40410090","upazila",4,"Sharsha","Sharsha",336,"BD4041","BD40",341,"Khulna","Jashore",480883,88.9391,23.0572,1411.99
+"BD40440014","upazila",4,"Harinakundu","Harinakundu",337,"BD4044","BD40",229,"Khulna","Jhenaidah",220240,89.0666,23.6598,963.178
+"BD40440019","upazila",4,"Jhenaidah Sadar","Jhenaidah Sadar",338,"BD4044","BD40",467,"Khulna","Jhenaidah",488065,89.154,23.5131,1045.27
+"BD40440033","upazila",4,"Kaliganj","Kaliganj (Jhenaidah)",339,"BD4044","BD40",310,"Khulna","Jhenaidah",275651,89.1481,23.3722,890.135
+"BD40440042","upazila",4,"Kotchandpur","Kotchandpur",340,"BD4044","BD40",164,"Khulna","Jhenaidah",186103,89.0054,23.4536,1132.3
+"BD40440071","upazila",4,"Maheshpur","Maheshpur",341,"BD4044","BD40",420,"Khulna","Jhenaidah",448314,88.8557,23.3198,1068.03
+"BD40440080","upazila",4,"Shailkupa","Shailkupa",342,"BD4044","BD40",376,"Khulna","Jhenaidah",418297,89.2438,23.6645,1112.11
+"BD40470012","upazila",4,"Batiaghata","Batiaghata",343,"BD4047","BD40",237,"Khulna","Khulna",318578,89.5278,22.7095,1342.04
+"BD40470017","upazila",4,"Dacope","Dacope",344,"BD4047","BD40",1104,"Khulna","Khulna",270132,89.5385,22.1482,244.754
+"BD40470040","upazila",4,"Dighalia","Dighalia",345,"BD4047","BD40",86,"Khulna","Khulna",160573,89.5549,22.9219,1860.95
+"BD40470030","upazila",4,"Dumuria","Dumuria",346,"BD4047","BD40",456,"Khulna","Khulna",442662,89.3884,22.7956,970.467
+"BD40473300","upazila",4,"Khulna City Corporation","Khulna City Corporation",347,"BD4047","BD40",47,"Khulna","Khulna",471544,89.5356,22.8379,10115
+"BD40470053","upazila",4,"Koyra","Koyra",348,"BD4047","BD40",1763,"Khulna","Khulna",243179,89.4064,22.0979,137.939
+"BD40470064","upazila",4,"Paikgachha","Paikgachha",349,"BD4047","BD40",378,"Khulna","Khulna",249903,89.343,22.5915,660.545
+"BD40470069","upazila",4,"Phultala","Phultala",350,"BD4047","BD40",77,"Khulna","Khulna",176106,89.4488,22.9555,2292.67
+"BD40470075","upazila",4,"Rupsa","Rupsa",351,"BD4047","BD40",120,"Khulna","Khulna",198869,89.6369,22.8189,1662.59
+"BD40470094","upazila",4,"Terokhada","Terokhada",352,"BD4047","BD40",189,"Khulna","Khulna",148176,89.6468,22.908,782.15
+"BD40500015","upazila",4,"Bheramara","Bheramara",353,"BD4050","BD40",151,"Khulna","Kushtia",289621,88.973,24.0589,1916.03
+"BD40500039","upazila",4,"Daulatpur","Daulatpur (Kushtia)",354,"BD4050","BD40",484,"Khulna","Kushtia",513421,88.818,24.0446,1061.4
+"BD40500063","upazila",4,"Khoksa","Khoksa",355,"BD4050","BD40",107,"Khulna","Kushtia",130754,89.294,23.8145,1226.81
+"BD40500071","upazila",4,"Kumarkhali","Kumarkhali",356,"BD4050","BD40",268,"Khulna","Kushtia",352677,89.2269,23.866,1316.27
+"BD40500079","upazila",4,"Kushtia Sadar","Kushtia Sadar",357,"BD4050","BD40",320,"Khulna","Kushtia",500937,89.0851,23.8294,1566.79
+"BD40500094","upazila",4,"Mirpur","Mirpur",358,"BD4050","BD40",310,"Khulna","Kushtia",416130,88.9806,23.8973,1341.76
+"BD40550057","upazila",4,"Magura Sadar","Magura Sadar",359,"BD4055","BD40",402,"Khulna","Magura",433179,89.4028,23.4405,1078.59
+"BD40550066","upazila",4,"Mohammadpur","Mohammadpur",360,"BD4055","BD40",226,"Khulna","Magura",223821,89.5562,23.3966,988.534
+"BD40550085","upazila",4,"Shalikha","Shalikha",361,"BD4055","BD40",229,"Khulna","Magura",183174,89.3515,23.3502,799.155
+"BD40550095","upazila",4,"Sreepur","Sreepur (Magura)",362,"BD4055","BD40",185,"Khulna","Magura",186350,89.4098,23.5996,1006.76
+"BD40570047","upazila",4,"Gangni","Gangni",363,"BD4057","BD40",340,"Khulna","Meherpur",306137,88.783,23.8558,899.475
+"BD40570087","upazila",4,"Meherpur Sadar","Meherpur Sadar",364,"BD4057","BD40",264,"Khulna","Meherpur",283309,88.6445,23.7711,1072.92
+"BD40570060","upazila",4,"Mujibnagar","Mujibnagar",365,"BD4057","BD40",114,"Khulna","Meherpur",106275,88.6041,23.6731,932.784
+"BD40650028","upazila",4,"Kalia","Kalia",366,"BD4065","BD40",301,"Khulna","Narail",256013,89.6271,23.0342,851.221
+"BD40650052","upazila",4,"Lohagara","Lohagara (Narail)",367,"BD4065","BD40",292,"Khulna","Narail",270065,89.6373,23.2006,924.141
+"BD40650076","upazila",4,"Narail Sadar","Narail Sadar",368,"BD4065","BD40",391,"Khulna","Narail",302953,89.5001,23.1594,774.917
+"BD40870004","upazila",4,"Ashashuni","Ashashuni",369,"BD4087","BD40",378,"Khulna","Satkhira",199630,89.2057,22.498,527.474
+"BD40870025","upazila",4,"Debhata","Debhata",370,"BD4087","BD40",173,"Khulna","Satkhira",137120,88.9919,22.5934,790.503
+"BD40870043","upazila",4,"Kalaroa","Kalaroa",371,"BD4087","BD40",233,"Khulna","Satkhira",307655,89.0355,22.878,1317.86
+"BD40870047","upazila",4,"Kaliganj","Kaliganj (Satkhira)",372,"BD4087","BD40",330,"Khulna","Satkhira",253289,89.0649,22.4432,767.287
+"BD40870082","upazila",4,"Satkhira Sadar","Satkhira Sadar",373,"BD4087","BD40",400,"Khulna","Satkhira",641714,89.0492,22.7081,1606.09
+"BD40870086","upazila",4,"Shyamnagar","Shyamnagar",374,"BD4087","BD40",2109,"Khulna","Satkhira",345077,89.1883,22.0264,163.589
+"BD40870090","upazila",4,"Tala","Tala",375,"BD4087","BD40",339,"Khulna","Satkhira",317997,89.2254,22.7289,939.284
+"BD45390007","upazila",4,"Bakshiganj","Bakshiganj",376,"BD4539","BD45",206,"Mymensingh","Jamalpur",237272,89.8409,25.2067,1153.68
+"BD45390015","upazila",4,"Dewanganj","Dewanganj",377,"BD4539","BD45",261,"Mymensingh","Jamalpur",315014,89.7736,25.2718,1205.66
+"BD45390029","upazila",4,"Islampur","Islampur",378,"BD4539","BD45",342,"Mymensingh","Jamalpur",309568,89.7273,25.0699,904.555
+"BD45390036","upazila",4,"Jamalpur Sadar","Jamalpur Sadar",379,"BD4539","BD45",489,"Mymensingh","Jamalpur",612545,90.0117,24.8426,1253.14
+"BD45390058","upazila",4,"Madarganj","Madarganj",380,"BD4539","BD45",224,"Mymensingh","Jamalpur",349920,89.7285,24.8854,1564.87
+"BD45390061","upazila",4,"Melandaha","Melandaha",381,"BD4539","BD45",269,"Mymensingh","Jamalpur",364396,89.8382,24.9669,1356.29
+"BD45390085","upazila",4,"Sarishabari","Sarishabari",382,"BD4539","BD45",262,"Mymensingh","Jamalpur",361717,89.8338,24.7085,1382.69
+"BD45610013","upazila",4,"Bhaluka","Bhaluka",383,"BD4561","BD45",447,"Mymensingh","Mymensingh",790402,90.3568,24.3807,1770.02
+"BD45610016","upazila",4,"Dhobaura","Dhobaura",384,"BD4561","BD45",257,"Mymensingh","Mymensingh",273913,90.5205,25.0934,1064.44
+"BD45610020","upazila",4,"Fulbaria","Fulbaria",385,"BD4561","BD45",397,"Mymensingh","Mymensingh",563963,90.2395,24.5812,1422.16
+"BD45610081","upazila",4,"Fulpur","Fulpur",386,"BD4561","BD45",285,"Mymensingh","Mymensingh",345310,90.3345,24.9414,1212.33
+"BD45610022","upazila",4,"Gafargaon","Gafargaon",387,"BD4561","BD45",397,"Mymensingh","Mymensingh",490874,90.5605,24.398,1235.01
+"BD45610023","upazila",4,"Gouripur","Gouripur",388,"BD4561","BD45",283,"Mymensingh","Mymensingh",368890,90.6118,24.7678,1303.89
+"BD45610024","upazila",4,"Haluaghat","Haluaghat",389,"BD4561","BD45",349,"Mymensingh","Mymensingh",368525,90.374,25.093,1054.45
+"BD45610031","upazila",4,"Ishwarganj","Ishwarganj",390,"BD4561","BD45",278,"Mymensingh","Mymensingh",372668,90.6012,24.643,1339.66
+"BD45610065","upazila",4,"Muktagachha","Muktagachha",391,"BD4561","BD45",314,"Mymensingh","Mymensingh",437341,90.2309,24.7325,1394.78
+"BD45614000","upazila",4,"Mymensingh City Corporation","Mymensingh City Corporation",392,"BD4561","BD45",99,"Mymensingh","Mymensingh",333506,90.4085,24.7433,3359.38
+"BD45610052","upazila",4,"Mymensingh Sadar","Mymensingh Sadar",393,"BD4561","BD45",282,"Mymensingh","Mymensingh",424174,90.4854,24.7697,1502.34
+"BD45610072","upazila",4,"Nandail","Nandail",394,"BD4561","BD45",327,"Mymensingh","Mymensingh",407141,90.6641,24.5517,1244.46
+"BD45610088","upazila",4,"Tarakanda","Tarakanda",395,"BD4561","BD45",281,"Mymensingh","Mymensingh",349615,90.4384,24.8504,1244.18
+"BD45610094","upazila",4,"Trishal","Trishal",396,"BD4561","BD45",336,"Mymensingh","Mymensingh",546905,90.4196,24.5654,1627.02
+"BD45720004","upazila",4,"Atpara","Atpara",397,"BD4572","BD45",194,"Mymensingh","Netrakona",171088,90.8606,24.7938,883.008
+"BD45720009","upazila",4,"Barhatta","Barhatta",398,"BD4572","BD45",221,"Mymensingh","Netrakona",189477,90.8983,24.9251,856.697
+"BD45720018","upazila",4,"Durgapur","Durgapur (Netrakona)",399,"BD4572","BD45",277,"Mymensingh","Netrakona",258725,90.6867,25.0912,933.251
+"BD45720040","upazila",4,"Kalmakanda","Kalmakanda",400,"BD4572","BD45",384,"Mymensingh","Netrakona",295394,90.8582,25.0724,769.837
+"BD45720047","upazila",4,"Kendua","Kendua",401,"BD4572","BD45",311,"Mymensingh","Netrakona",330962,90.7952,24.6777,1063.51
+"BD45720038","upazila",4,"Khaliajuri","Khaliajuri",402,"BD4572","BD45",293,"Mymensingh","Netrakona",45223,91.0998,24.7213,154.492
+"BD45720056","upazila",4,"Madan","Madan",403,"BD4572","BD45",226,"Mymensingh","Netrakona",128577,90.9792,24.6776,568.109
+"BD45720063","upazila",4,"Mohanganj","Mohanganj",404,"BD4572","BD45",242,"Mymensingh","Netrakona",128287,91.016,24.8242,529.495
+"BD45720074","upazila",4,"Netrakona Sadar","Netrakona Sadar",405,"BD4572","BD45",335,"Mymensingh","Netrakona",460197,90.7322,24.8935,1375.38
+"BD45720083","upazila",4,"Purbadhala","Purbadhala",406,"BD4572","BD45",317,"Mymensingh","Netrakona",355246,90.5949,24.9184,1120.2
+"BD45890037","upazila",4,"Jhenaigati","Jhenaigati",407,"BD4589","BD45",203,"Mymensingh","Sherpur",200546,90.0676,25.1731,985.863
+"BD45890067","upazila",4,"Nakla","Nakla",408,"BD4589","BD45",171,"Mymensingh","Sherpur",192669,90.1855,24.9585,1125.51
+"BD45890070","upazila",4,"Nalitabari","Nalitabari",409,"BD4589","BD45",333,"Mymensingh","Sherpur",315607,90.1729,25.1218,946.557
+"BD45890088","upazila",4,"Sherpur Sadar","Sherpur Sadar",410,"BD4589","BD45",351,"Mymensingh","Sherpur",559966,90.0082,24.9939,1593.22
+"BD45890090","upazila",4,"Sreebardi","Sreebardi",411,"BD4589","BD45",268,"Mymensingh","Sherpur",265752,89.9559,25.1778,989.796
+"BD50100006","upazila",4,"Adamdighi","Adamdighi",412,"BD5010","BD50",171,"Rajshahi","Bogura",217280,89.0662,24.7938,1273.48
+"BD50100020","upazila",4,"Bogura Sadar","Bogura Sadar",413,"BD5010","BD50",178,"Rajshahi","Bogura",495426,89.3553,24.901,2781.93
+"BD50100027","upazila",4,"Dhunat","Dhunat",414,"BD5010","BD50",252,"Rajshahi","Bogura",310549,89.5194,24.6707,1232.86
+"BD50100033","upazila",4,"Dupchachia","Dupchachia",415,"BD5010","BD50",165,"Rajshahi","Bogura",236878,89.1322,24.8845,1431.45
+"BD50100040","upazila",4,"Gabtali","Gabtali",416,"BD5010","BD50",244,"Rajshahi","Bogura",365672,89.467,24.8925,1498.59
+"BD50100054","upazila",4,"Kahaloo","Kahaloo",417,"BD5010","BD50",238,"Rajshahi","Bogura",311579,89.2483,24.8267,1310.3
+"BD50100067","upazila",4,"Nandigram","Nandigram",418,"BD5010","BD50",272,"Rajshahi","Bogura",254708,89.2389,24.6891,936.506
+"BD50100081","upazila",4,"Sariakandi","Sariakandi",419,"BD5010","BD50",416,"Rajshahi","Bogura",234056,89.5945,24.8926,562.236
+"BD50100085","upazila",4,"Shajahanpur","Shajahanpur",420,"BD5010","BD50",221,"Rajshahi","Bogura",382584,89.3745,24.7624,1728.73
+"BD50100088","upazila",4,"Sherpur","Sherpur",421,"BD5010","BD50",297,"Rajshahi","Bogura",429319,89.4264,24.6292,1445.51
+"BD50100094","upazila",4,"Shibganj","Shibganj (Bogura)",422,"BD5010","BD50",316,"Rajshahi","Bogura",421172,89.3203,25.0182,1334.18
+"BD50100095","upazila",4,"Sonatala","Sonatala",423,"BD5010","BD50",160,"Rajshahi","Bogura",177158,89.5125,24.9909,1107.36
+"BD50700018","upazila",4,"Bholahat","Bholahat",424,"BD5070","BD50",123,"Rajshahi","Chapainababganj",113502,88.209,24.8847,919.482
+"BD50700066","upazila",4,"Chapainawabganj Sadar","Chapainawabganj Sadar",425,"BD5070","BD50",438,"Rajshahi","Chapainababganj",533052,88.1998,24.5638,1216.27
+"BD50700037","upazila",4,"Gomastapur","Gomastapur",426,"BD5070","BD50",319,"Rajshahi","Chapainababganj",330286,88.3496,24.8554,1035.99
+"BD50700056","upazila",4,"Nachole","Nachole",427,"BD5070","BD50",283,"Rajshahi","Chapainababganj",266759,88.3738,24.7353,941.743
+"BD50700088","upazila",4,"Shibganj","Shibganj (Chapainababganj)",428,"BD5070","BD50",526,"Rajshahi","Chapainababganj",603965,88.1699,24.7194,1149.11
+"BD50380013","upazila",4,"Akkelpur","Akkelpur",429,"BD5038","BD50",140,"Rajshahi","Joypurhat",143589,89.046,24.9491,1022.2
+"BD50380047","upazila",4,"Joypurhat Sadar","Joypurhat Sadar",430,"BD5038","BD50",236,"Rajshahi","Joypurhat",300638,89.0412,25.1188,1272.15
+"BD50380058","upazila",4,"Kalai","Kalai",431,"BD5038","BD50",166,"Rajshahi","Joypurhat",160591,89.2133,25.0795,967.063
+"BD50380061","upazila",4,"Khetlal","Khetlal",432,"BD5038","BD50",143,"Rajshahi","Joypurhat",129240,89.0917,25.0326,901.697
+"BD50380074","upazila",4,"Panchbibi","Panchbibi",433,"BD5038","BD50",280,"Rajshahi","Joypurhat",250022,89.0678,25.2049,893.946
+"BD50640003","upazila",4,"Atrai","Atrai",434,"BD5064","BD50",262,"Rajshahi","Naogaon",181618,89.0136,24.6206,692.357
+"BD50640006","upazila",4,"Badalgachhi","Badalgachhi",435,"BD5064","BD50",212,"Rajshahi","Naogaon",202377,88.9284,24.9687,953.743
+"BD50640028","upazila",4,"Dhamoirhat","Dhamoirhat",436,"BD5064","BD50",302,"Rajshahi","Naogaon",216465,88.8754,25.1158,717.259
+"BD50640050","upazila",4,"Mahadebpur","Mahadebpur",437,"BD5064","BD50",392,"Rajshahi","Naogaon",331492,88.7636,24.9122,845.782
+"BD50640047","upazila",4,"Manda","Manda",438,"BD5064","BD50",414,"Rajshahi","Naogaon",413189,88.7223,24.751,998.671
+"BD50640060","upazila",4,"Naogaon Sadar","Naogaon Sadar",439,"BD5064","BD50",277,"Rajshahi","Naogaon",352284,88.9158,24.8188,1270.64
+"BD50640069","upazila",4,"Niamatpur","Niamatpur",440,"BD5064","BD50",450,"Rajshahi","Naogaon",343051,88.523,24.8275,761.495
+"BD50640075","upazila",4,"Patnitala","Patnitala",441,"BD5064","BD50",380,"Rajshahi","Naogaon",263045,88.6811,25.0952,692.844
+"BD50640079","upazila",4,"Porsha","Porsha",442,"BD5064","BD50",259,"Rajshahi","Naogaon",158133,88.5242,24.9979,611.369
+"BD50640085","upazila",4,"Raninagar","Raninagar",443,"BD5064","BD50",247,"Rajshahi","Naogaon",184767,88.9797,24.7125,749.345
+"BD50640086","upazila",4,"Sapahar","Sapahar",444,"BD5064","BD50",244,"Rajshahi","Naogaon",189418,88.5299,25.1131,775.691
+"BD50690009","upazila",4,"Bagatipara","Bagatipara",445,"BD5069","BD50",139,"Rajshahi","Natore",152618,88.9589,24.3056,1095.92
+"BD50690015","upazila",4,"Baraigram","Baraigram",446,"BD5069","BD50",308,"Rajshahi","Natore",345821,89.1677,24.2601,1124.05
+"BD50690041","upazila",4,"Gurudaspur","Gurudaspur",447,"BD5069","BD50",201,"Rajshahi","Natore",234274,89.1872,24.3729,1167.96
+"BD50690044","upazila",4,"Lalpur","Lalpur",448,"BD5069","BD50",323,"Rajshahi","Natore",280960,88.9913,24.2015,869.372
+"BD50690055","upazila",4,"Naldanga","Naldanga",449,"BD5069","BD50",176,"Rajshahi","Natore",140566,88.9919,24.5138,800.615
+"BD50690063","upazila",4,"Natore Sadar","Natore Sadar",450,"BD5069","BD50",229,"Rajshahi","Natore",350049,88.9983,24.3946,1526.18
+"BD50690091","upazila",4,"Singra","Singra",451,"BD5069","BD50",529,"Rajshahi","Natore",387127,89.217,24.5471,731.293
+"BD50760005","upazila",4,"Atgharia","Atgharia",452,"BD5076","BD50",182,"Rajshahi","Pabna",181803,89.2267,24.1179,999.253
+"BD50760016","upazila",4,"Bera","Bera",453,"BD5076","BD50",267,"Rajshahi","Pabna",244428,89.6493,23.9542,915.825
+"BD50760019","upazila",4,"Bhangura","Bhangura",454,"BD5076","BD50",135,"Rajshahi","Pabna",136331,89.3917,24.2394,1011.71
+"BD50760022","upazila",4,"Chatmohar","Chatmohar",455,"BD5076","BD50",305,"Rajshahi","Pabna",332539,89.2781,24.2262,1088.8
+"BD50760033","upazila",4,"Faridpur","Faridpur",456,"BD5076","BD50",140,"Rajshahi","Pabna",120042,89.471,24.1544,858.841
+"BD50760039","upazila",4,"Ishwardi","Ishwardi",457,"BD5076","BD50",269,"Rajshahi","Pabna",459008,89.0842,24.0664,1705.09
+"BD50760055","upazila",4,"Pabna Sadar","Pabna Sadar",458,"BD5076","BD50",430,"Rajshahi","Pabna",695845,89.3087,23.9878,1618.28
+"BD50760072","upazila",4,"Santhia","Santhia",459,"BD5076","BD50",331,"Rajshahi","Pabna",409910,89.5105,24.049,1239.34
+"BD50760083","upazila",4,"Sujanagar","Sujanagar",460,"BD5076","BD50",333,"Rajshahi","Pabna",332696,89.4941,23.9024,998.757
+"BD50810010","upazila",4,"Bagha","Bagha",461,"BD5081","BD50",186,"Rajshahi","Rajshahi",195926,88.8071,24.2135,1055.19
+"BD50810012","upazila",4,"Bagmara","Bagmara",462,"BD5081","BD50",366,"Rajshahi","Rajshahi",439970,88.8102,24.5988,1201.61
+"BD50810025","upazila",4,"Charghat","Charghat",463,"BD5081","BD50",174,"Rajshahi","Rajshahi",225912,88.7919,24.3008,1295.17
+"BD50810031","upazila",4,"Durgapur","Durgapur (Rajshahi)",464,"BD5081","BD50",200,"Rajshahi","Rajshahi",252120,88.7599,24.4586,1263.62
+"BD50810034","upazila",4,"Godagari","Godagari",465,"BD5081","BD50",490,"Rajshahi","Rajshahi",427797,88.408,24.4829,873.104
+"BD50810053","upazila",4,"Mohanpur","Mohanpur",466,"BD5081","BD50",162,"Rajshahi","Rajshahi",227556,88.6508,24.5562,1405.75
+"BD50810072","upazila",4,"Paba","Paba",467,"BD5081","BD50",305,"Rajshahi","Rajshahi",416840,88.671,24.405,1365.42
+"BD50810082","upazila",4,"Puthia","Puthia",468,"BD5081","BD50",196,"Rajshahi","Rajshahi",277159,88.8486,24.4287,1413.57
+"BD50816600","upazila",4,"Rajshahi City Corporation","Rajshahi City Corporation",469,"BD5081","BD50",46,"Rajshahi","Rajshahi",264721,88.6221,24.3833,5695.75
+"BD50810094","upazila",4,"Tanore","Tanore",470,"BD5081","BD50",297,"Rajshahi","Rajshahi",265434,88.515,24.6014,893.258
+"BD50880011","upazila",4,"Belkuchi","Belkuchi",471,"BD5088","BD50",164,"Rajshahi","Sirajganj",318208,89.7089,24.2971,1934.45
+"BD50880027","upazila",4,"Chouhali","Chouhali",472,"BD5088","BD50",253,"Rajshahi","Sirajganj",104137,89.7633,24.1499,410.908
+"BD50880044","upazila",4,"Kamarkhanda","Kamarkhanda",473,"BD5088","BD50",92,"Rajshahi","Sirajganj",185059,89.6485,24.3787,2010.07
+"BD50880050","upazila",4,"Kazipur","Kazipur",474,"BD5088","BD50",372,"Rajshahi","Sirajganj",304923,89.669,24.6659,818.79
+"BD50880061","upazila",4,"Rayganj","Rayganj",475,"BD5088","BD50",265,"Rajshahi","Sirajganj",446806,89.515,24.4867,1686.21
+"BD50880067","upazila",4,"Shahjadpur","Shahjadpur",476,"BD5088","BD50",325,"Rajshahi","Sirajganj",489049,89.6257,24.1627,1506.52
+"BD50880078","upazila",4,"Sirajganj Sadar","Sirajganj Sadar",477,"BD5088","BD50",325,"Rajshahi","Sirajganj",545714,89.6866,24.4854,1676.59
+"BD50880089","upazila",4,"Tarash","Tarash",478,"BD5088","BD50",300,"Rajshahi","Sirajganj",336195,89.3537,24.4502,1120.27
+"BD50880094","upazila",4,"Ullapara","Ullapara",479,"BD5088","BD50",414,"Rajshahi","Sirajganj",687614,89.5231,24.3186,1659.79
+"BD55270010","upazila",4,"Birampur","Birampur",480,"BD5527","BD55",214,"Rangpur","Dinajpur",197390,88.9863,25.3961,921.182
+"BD55270012","upazila",4,"Birganj","Birganj",481,"BD5527","BD55",415,"Rangpur","Dinajpur",380125,88.6125,25.9342,916.666
+"BD55270017","upazila",4,"Birol","Birol",482,"BD5527","BD55",351,"Rangpur","Dinajpur",289433,88.5387,25.6371,824.719
+"BD55270021","upazila",4,"Bochaganj","Bochaganj",483,"BD5527","BD55",223,"Rangpur","Dinajpur",196298,88.4454,25.7855,879.494
+"BD55270030","upazila",4,"Chirirbandar","Chirirbandar",484,"BD5527","BD55",316,"Rangpur","Dinajpur",298538,88.7699,25.6591,945.974
+"BD55270064","upazila",4,"Dinajpur Sadar","Dinajpur Sadar",485,"BD5527","BD55",355,"Rangpur","Dinajpur",480358,88.6632,25.6296,1351.55
+"BD55270038","upazila",4,"Fulbari","Fulbari",486,"BD5527","BD55",233,"Rangpur","Dinajpur",227324,88.9037,25.4768,973.999
+"BD55270043","upazila",4,"Ghoraghat","Ghoraghat",487,"BD5527","BD55",153,"Rangpur","Dinajpur",161362,89.2067,25.2964,1057.56
+"BD55270047","upazila",4,"Hakimpur","Hakimpur",488,"BD5527","BD55",101,"Rangpur","Dinajpur",92848,89.0785,25.2961,917.685
+"BD55270056","upazila",4,"Kaharole","Kaharole",489,"BD5527","BD55",206,"Rangpur","Dinajpur",199292,88.5924,25.8116,968.569
+"BD55270060","upazila",4,"Khansama","Khansama",490,"BD5527","BD55",180,"Rangpur","Dinajpur",154284,88.7642,25.8995,857.715
+"BD55270069","upazila",4,"Nababganj","Nababganj",491,"BD5527","BD55",317,"Rangpur","Dinajpur",280593,89.0903,25.4299,885.952
+"BD55270077","upazila",4,"Parbatipur","Parbatipur",492,"BD5527","BD55",397,"Rangpur","Dinajpur",418855,88.9033,25.6418,1056.35
+"BD55320021","upazila",4,"Fulchhari","Fulchhari",493,"BD5532","BD55",311,"Rangpur","Gaibandha",193097,89.6528,25.2384,621.553
+"BD55320024","upazila",4,"Gaibandha Sadar","Gaibandha Sadar",494,"BD5532","BD55",324,"Rangpur","Gaibandha",433526,89.5199,25.3328,1336.74
+"BD55320030","upazila",4,"Gobindaganj","Gobindaganj",495,"BD5532","BD55",462,"Rangpur","Gaibandha",672228,89.3609,25.1466,1456.15
+"BD55320067","upazila",4,"Palashbari","Palashbari",496,"BD5532","BD55",186,"Rangpur","Gaibandha",256024,89.4392,25.2553,1379.98
+"BD55320082","upazila",4,"Sadullapur","Sadullapur",497,"BD5532","BD55",229,"Rangpur","Gaibandha",295138,89.4328,25.4004,1291.06
+"BD55320088","upazila",4,"Saghata","Saghata",498,"BD5532","BD55",233,"Rangpur","Gaibandha",299625,89.5562,25.1361,1283.97
+"BD55320091","upazila",4,"Sundarganj","Sundarganj",499,"BD5532","BD55",406,"Rangpur","Gaibandha",441719,89.5679,25.5199,1086.95
+"BD55490006","upazila",4,"Bhurungamari","Bhurungamari",500,"BD5549","BD55",230,"Rangpur","Kurigram",355746,89.6829,26.1318,1544.37
+"BD55490009","upazila",4,"Chilmari","Chilmari",501,"BD5549","BD55",244,"Rangpur","Kurigram",102852,89.7084,25.5552,422.186
+"BD55490052","upazila",4,"Kurigram Sadar","Kurigram Sadar",502,"BD5549","BD55",274,"Rangpur","Kurigram",345900,89.7037,25.8331,1262.17
+"BD55490061","upazila",4,"Nageshwari","Nageshwari",503,"BD5549","BD55",416,"Rangpur","Kurigram",492082,89.7337,25.9621,1182.12
+"BD55490018","upazila",4,"Phulbari","Phulbari",504,"BD5549","BD55",161,"Rangpur","Kurigram",229286,89.5664,25.9555,1424.63
+"BD55490077","upazila",4,"Rajarhat","Rajarhat",505,"BD5549","BD55",163,"Rangpur","Kurigram",176933,89.5288,25.8026,1083.56
+"BD55490008","upazila",4,"Rajibpur","Rajibpur",506,"BD5549","BD55",114,"Rangpur","Kurigram",92249,89.7677,25.4481,811.378
+"BD55490079","upazila",4,"Roumari","Roumari",507,"BD5549","BD55",200,"Rangpur","Kurigram",259548,89.8323,25.5806,1296.22
+"BD55490094","upazila",4,"Ulipur","Ulipur",508,"BD5549","BD55",465,"Rangpur","Kurigram",324453,89.6502,25.6864,697.541
+"BD55520002","upazila",4,"Aditmari","Aditmari",509,"BD5552","BD55",190,"Rangpur","Lalmonirhat",200678,89.3758,25.9492,1057.76
+"BD55520033","upazila",4,"Hatibandha","Hatibandha",510,"BD5552","BD55",287,"Rangpur","Lalmonirhat",324082,89.1457,26.1244,1131.09
+"BD55520039","upazila",4,"Kaliganj","Kaliganj (Lalmonirhat)",511,"BD5552","BD55",238,"Rangpur","Lalmonirhat",287365,89.2302,25.9746,1209.4
+"BD55520055","upazila",4,"Lalmonirhat Sadar","Lalmonirhat Sadar",512,"BD5552","BD55",263,"Rangpur","Lalmonirhat",302537,89.466,25.8957,1152.39
+"BD55520070","upazila",4,"Patgram","Patgram",513,"BD5552","BD55",259,"Rangpur","Lalmonirhat",349392,89.0434,26.3397,1347.26
+"BD55730012","upazila",4,"Dimla","Dimla",514,"BD5573","BD55",333,"Rangpur","Nilphamari",385055,88.961,26.1789,1155.88
+"BD55730015","upazila",4,"Domar","Domar",515,"BD5573","BD55",251,"Rangpur","Nilphamari",315793,88.8347,26.1714,1256.3
+"BD55730036","upazila",4,"Jaldhaka","Jaldhaka",516,"BD5573","BD55",308,"Rangpur","Nilphamari",350666,88.9902,26.0379,1138.26
+"BD55730045","upazila",4,"Kishoreganj","Kishoreganj",517,"BD5573","BD55",208,"Rangpur","Nilphamari",264076,89.0294,25.9018,1268.48
+"BD55730064","upazila",4,"Nilphamari Sadar","Nilphamari Sadar",518,"BD5573","BD55",374,"Rangpur","Nilphamari",500415,88.8816,25.9349,1338.65
+"BD55730085","upazila",4,"Saidpur","Saidpur",519,"BD5573","BD55",122,"Rangpur","Nilphamari",265093,88.8989,25.799,2178.17
+"BD55770004","upazila",4,"Atowari","Atowari",520,"BD5577","BD55",208,"Rangpur","Panchagarh",147819,88.4112,26.2748,709.98
+"BD55770025","upazila",4,"Boda","Boda",521,"BD5577","BD55",339,"Rangpur","Panchagarh",287731,88.6064,26.2075,849.699
+"BD55770034","upazila",4,"Debiganj","Debiganj",522,"BD5577","BD55",304,"Rangpur","Panchagarh",317759,88.717,26.1351,1046.28
+"BD55770073","upazila",4,"Panchagarh Sadar","Panchagarh Sadar",523,"BD5577","BD55",363,"Rangpur","Panchagarh",298481,88.5977,26.3788,822.913
+"BD55770090","upazila",4,"Tentulia","Tentulia",524,"BD5577","BD55",191,"Rangpur","Panchagarh",155407,88.4207,26.5172,815.402
+"BD55850003","upazila",4,"Badarganj","Badarganj",525,"BD5585","BD55",301,"Rangpur","Rangpur",356337,89.0688,25.6506,1182.69
+"BD55850027","upazila",4,"Gangachara","Gangachara",526,"BD5585","BD55",245,"Rangpur","Rangpur",274366,89.2044,25.8884,1119.66
+"BD55850042","upazila",4,"Kaunia","Kaunia",527,"BD5585","BD55",148,"Rangpur","Rangpur",187055,89.3905,25.7644,1263.77
+"BD55850058","upazila",4,"Mithapukur","Mithapukur",528,"BD5585","BD55",518,"Rangpur","Rangpur",655914,89.2542,25.56,1266.01
+"BD55850073","upazila",4,"Pirgachha","Pirgachha",529,"BD5585","BD55",264,"Rangpur","Rangpur",325722,89.4409,25.6556,1232.37
+"BD55850076","upazila",4,"Pirganj","Pirganj (Rangpur)",530,"BD5585","BD55",412,"Rangpur","Rangpur",500464,89.2667,25.4116,1214.79
+"BD55857500","upazila",4,"Rangpur City Corporation","Rangpur City Corporation",531,"BD5585","BD55",207,"Rangpur","Rangpur",630170,89.2289,25.7507,3039.96
+"BD55850049","upazila",4,"Rangpur Sadar","Rangpur Sadar",532,"BD5585","BD55",138,"Rangpur","Rangpur",186530,89.1328,25.757,1352.52
+"BD55850092","upazila",4,"Taraganj","Taraganj",533,"BD5585","BD55",129,"Rangpur","Rangpur",146804,89.027,25.7815,1136.53
+"BD55940008","upazila",4,"Baliadangi","Baliadangi",534,"BD5594","BD55",280,"Rangpur","Thakurgaon",217848,88.2507,26.0956,777.049
+"BD55940051","upazila",4,"Haripur","Haripur",535,"BD5594","BD55",200,"Rangpur","Thakurgaon",156046,88.1471,25.8876,780.016
+"BD55940082","upazila",4,"Pirganj","Pirganj (Thakurgaon)",536,"BD5594","BD55",354,"Rangpur","Thakurgaon",272553,88.3256,25.8215,770.723
+"BD55940086","upazila",4,"Ranishankail","Ranishankail",537,"BD5594","BD55",291,"Rangpur","Thakurgaon",242430,88.2626,25.9338,833.025
+"BD55940094","upazila",4,"Thakurgaon Sadar","Thakurgaon Sadar",538,"BD5594","BD55",681,"Rangpur","Thakurgaon",666955,88.4676,26.0553,980.01
+"BD60360002","upazila",4,"Ajmiriganj","Ajmiriganj",539,"BD6036","BD60",180,"Sylhet","Habiganj",78550,91.2834,24.5625,437.383
+"BD60360005","upazila",4,"Bahubal","Bahubal",540,"BD6036","BD60",264,"Sylhet","Habiganj",266809,91.5436,24.3657,1011.5
+"BD60360011","upazila",4,"Baniachong","Baniachong",541,"BD6036","BD60",514,"Sylhet","Habiganj",278372,91.406,24.5265,541.463
+"BD60360026","upazila",4,"Chunarughat","Chunarughat",542,"BD6036","BD60",504,"Sylhet","Habiganj",424355,91.512,24.1768,841.891
+"BD60360044","upazila",4,"Habiganj Sadar","Habiganj Sadar",543,"BD6036","BD60",189,"Sylhet","Habiganj",271765,91.399,24.3623,1440.95
+"BD60360068","upazila",4,"Lakhai","Lakhai",544,"BD6036","BD60",191,"Sylhet","Habiganj",118436,91.2507,24.3015,619.549
+"BD60360071","upazila",4,"Madhabpur","Madhabpur",545,"BD6036","BD60",280,"Sylhet","Habiganj",405536,91.3459,24.1221,1445.97
+"BD60360077","upazila",4,"Nabiganj","Nabiganj",546,"BD6036","BD60",441,"Sylhet","Habiganj",464324,91.5529,24.5542,1051.73
+"BD60360087","upazila",4,"Shayestaganj","Shayestaganj",547,"BD6036","BD60",47,"Sylhet","Habiganj",98064,91.4042,24.2732,2066.34
+"BD60580014","upazila",4,"Baralekha","Baralekha",548,"BD6058","BD60",384,"Sylhet","Moulvibazar",310296,92.1694,24.7115,807.094
+"BD60580035","upazila",4,"Juri","Juri",549,"BD6058","BD60",245,"Sylhet","Moulvibazar",204865,92.2014,24.5283,835.396
+"BD60580056","upazila",4,"Kamalganj","Kamalganj",550,"BD6058","BD60",417,"Sylhet","Moulvibazar",293694,91.8626,24.3023,703.946
+"BD60580065","upazila",4,"Kulaura","Kulaura",551,"BD6058","BD60",502,"Sylhet","Moulvibazar",472185,92.0258,24.4888,939.674
+"BD60580074","upazila",4,"Moulvibazar Sadar","Moulvibazar Sadar",552,"BD6058","BD60",345,"Sylhet","Moulvibazar",364735,91.7168,24.5174,1056.3
+"BD60580080","upazila",4,"Rajnagar","Rajnagar",553,"BD6058","BD60",347,"Sylhet","Moulvibazar",243528,91.856,24.5493,701.297
+"BD60580083","upazila",4,"Sreemangal","Sreemangal",554,"BD6058","BD60",432,"Sylhet","Moulvibazar",306352,91.6987,24.3074,709.873
+"BD60900018","upazila",4,"Bishwambharpur","Bishwambharpur",555,"BD6090","BD60",190,"Sylhet","Sunamganj",167509,91.3298,25.103,881.623
+"BD60900023","upazila",4,"Chhatak","Chhatak",556,"BD6090","BD60",439,"Sylhet","Sunamganj",518013,91.626,24.9804,1180.02
+"BD60900029","upazila",4,"Derai","Derai",557,"BD6090","BD60",399,"Sylhet","Sunamganj",195402,91.3346,24.7713,489.638
+"BD60900032","upazila",4,"Dharmapasha","Dharmapasha",558,"BD6090","BD60",274,"Sylhet","Sunamganj",101139,91.0585,24.9307,369.155
+"BD60900033","upazila",4,"Dowarabazar","Dowarabazar",559,"BD6090","BD60",275,"Sylhet","Sunamganj",340107,91.5425,25.0701,1237.59
+"BD60900047","upazila",4,"Jagannathpur","Jagannathpur",560,"BD6090","BD60",369,"Sylhet","Sunamganj",373335,91.5658,24.7473,1012.79
+"BD60900050","upazila",4,"Jamalganj","Jamalganj",561,"BD6090","BD60",334,"Sylhet","Sunamganj",138256,91.2234,24.9347,413.449
+"BD60900063","upazila",4,"Madhyanagar","Madhyanagar",562,"BD6090","BD60",228,"Sylhet","Sunamganj",102020,91.0083,25.0911,448.384
+"BD60900086","upazila",4,"Shalla","Shalla",563,"BD6090","BD60",258,"Sylhet","Sunamganj",66003,91.2963,24.6908,255.704
+"BD60900087","upazila",4,"Shantiganj","Shantiganj",564,"BD6090","BD60",312,"Sylhet","Sunamganj",177630,91.4016,24.9218,570.215
+"BD60900089","upazila",4,"Sunamganj Sadar","Sunamganj Sadar",565,"BD6090","BD60",276,"Sylhet","Sunamganj",323865,91.3991,25.0556,1171.34
+"BD60900092","upazila",4,"Tahirpur","Tahirpur",566,"BD6090","BD60",313,"Sylhet","Sunamganj",159270,91.1398,25.1162,508.309
+"BD60910008","upazila",4,"Balaganj","Balaganj",567,"BD6091","BD60",171,"Sylhet","Sylhet",129291,91.8382,24.6844,757.652
+"BD60910017","upazila",4,"Beanibazar","Beanibazar",568,"BD6091","BD60",246,"Sylhet","Sylhet",333074,92.1663,24.8544,1351.31
+"BD60910020","upazila",4,"Bishwanath","Bishwanath",569,"BD6091","BD60",211,"Sylhet","Sylhet",279323,91.7359,24.8403,1326.66
+"BD60910027","upazila",4,"Companiganj","Companiganj (Sylhet)",570,"BD6091","BD60",262,"Sylhet","Sylhet",169401,91.7911,25.0756,646.901
+"BD60910031","upazila",4,"Dakkhin Surma","Dakkhin Surma",571,"BD6091","BD60",190,"Sylhet","Sylhet",368322,91.8647,24.814,1942.64
+"BD60910035","upazila",4,"Fenchuganj","Fenchuganj",572,"BD6091","BD60",112,"Sylhet","Sylhet",134992,91.9667,24.6981,1202.47
+"BD60910038","upazila",4,"Golapganj","Golapganj",573,"BD6091","BD60",273,"Sylhet","Sylhet",466535,92.0241,24.8124,1708.94
+"BD60910041","upazila",4,"Gowainghat","Gowainghat",574,"BD6091","BD60",486,"Sylhet","Sylhet",387642,91.9724,25.0672,797.585
+"BD60910053","upazila",4,"Jaintapur","Jaintapur",575,"BD6091","BD60",269,"Sylhet","Sylhet",205608,92.1242,25.0532,764.67
+"BD60910059","upazila",4,"Kanaighat","Kanaighat",576,"BD6091","BD60",401,"Sylhet","Sylhet",272713,92.2549,24.9919,680.11
+"BD60910060","upazila",4,"Osmaninagar","Osmaninagar",577,"BD6091","BD60",215,"Sylhet","Sylhet",269612,91.7058,24.7017,1253.18
+"BD60915000","upazila",4,"Sylhet City Corporation","Sylhet City Corporation",578,"BD6091","BD60",27,"Sylhet","Sylhet",232229,91.8718,24.8931,8584.45
+"BD60910062","upazila",4,"Sylhet Sadar","Sylhet Sadar",579,"BD6091","BD60",296,"Sylhet","Sylhet",499776,91.8437,24.943,1690.35
+"BD60910094","upazila",4,"Zakiganj","Zakiganj",580,"BD6091","BD60",264,"Sylhet","Sylhet",206683,92.351,24.9276,782.586

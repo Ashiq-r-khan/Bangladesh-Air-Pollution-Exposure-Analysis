@@ -1,0 +1,13 @@
+"target","cv","model","r2","mae","rmse"
+"pm25_recent","random","Linear regression",0.64,5.561,6.646
+"pm25_recent","random","Random forest",0.925,2.292,3.028
+"pm25_recent","random","XGBoost",0.938,2.025,2.766
+"pm25_recent","spatial","Linear regression",0.279,7.813,9.404
+"pm25_recent","spatial","Random forest",0.619,5.238,6.832
+"pm25_recent","spatial","XGBoost",0.66,4.713,6.455
+"pm25_change","random","Linear regression",0.586,2.181,2.708
+"pm25_change","random","Random forest",0.816,1.346,1.807
+"pm25_change","random","XGBoost",0.834,1.308,1.714
+"pm25_change","spatial","Linear regression",0.356,2.776,3.376
+"pm25_change","spatial","Random forest",0.347,2.594,3.401
+"pm25_change","spatial","XGBoost",0.404,2.49,3.249

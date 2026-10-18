@@ -1,0 +1,17 @@
+numpy
+pandas
+pyarrow
+xarray
+rioxarray
+rasterio
+geopandas
+pyogrio
+netCDF4
+h5netcdf
+requests
+tqdm
+duckdb
+matplotlib
+scikit-learn
+xgboost
+shap

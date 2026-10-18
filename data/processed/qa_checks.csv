@@ -1,0 +1,11 @@
+check,value
+people snapped to nearest upazila,"21,135 (0.013%), max 3.2 km"
+population total,"168,343,283"
+cells inside Bangladesh (0.01 deg),"129,302"
+"max missing cells inside border, any year",0.0%
+"max missing people, any year",0.0%
+upazilas with no 0.01 deg cell centre,0
+"population in weighted means (national, any year)","168,343,283 to 168,343,283"
+"2018 jump, annual 0.01 deg",+28%
+"2018 jump, monthly 0.1 deg",+28%
+"2018 jump, previous release V6.GL.02.04",+3%

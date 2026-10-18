@@ -1,0 +1,21 @@
+group_name,rank_highest,district,division,population_m,last_5yr_mean
+highest,1,Dhaka,Dhaka,14.9,83.9
+highest,2,Narayanganj,Dhaka,3.97,82.5
+highest,3,Gazipur,Dhaka,5.44,82.3
+highest,4,Manikganj,Dhaka,1.57,82.2
+highest,5,Munshiganj,Dhaka,1.71,81.5
+highest,6,Narsingdi,Dhaka,2.68,79.8
+highest,7,Madaripur,Dhaka,1.35,78.5
+highest,8,Chandpur,Chattogram,2.65,77.0
+highest,9,Faridpur,Dhaka,2.21,76.9
+highest,10,Shariatpur,Dhaka,1.27,76.8
+lowest,55,Satkhira,Khulna,2.2,55.0
+lowest,56,Habiganj,Sylhet,2.41,54.7
+lowest,57,Khagrachhari,Chattogram,0.76,51.1
+lowest,58,Cox's Bazar,Chattogram,2.8,51.0
+lowest,59,Netrakona,Mymensingh,2.36,50.2
+lowest,60,Moulvibazar,Sylhet,2.2,46.9
+lowest,61,Rangamati,Chattogram,0.68,44.1
+lowest,62,Sunamganj,Sylhet,2.66,42.1
+lowest,63,Bandarban,Chattogram,0.55,41.0
+lowest,64,Sylhet,Sylhet,3.96,39.5

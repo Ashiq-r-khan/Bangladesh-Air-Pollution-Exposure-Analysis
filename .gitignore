@@ -1,0 +1,28 @@
+# Power BI working project: only the .pbix is shared
+Air Pollution Dashboard/
+
+# Raw downloads (large, re-created by notebook 01)
+data/raw/*
+!data/raw/download_manifest.csv
+
+# Large intermediate files (re-created by notebooks 01 and 02)
+data/parquet/
+data/processed/bgd_admin.gpkg
+data/processed/pm25_annual_grid.nc
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# System
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+~$*
